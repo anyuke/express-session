@@ -1,0 +1,74 @@
+
+<!--
+Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE html>
+<html>
+<head>
+<title>iOS 7 Login And Register App responsive widget Design :: w3layouts</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<script type="text/javascript" src="http://static.runoob.com/assets/vue/1.0.11/vue.min.js"></script>
+<meta name="keywords" content="iOS 7 Login And Register App Responsive Templates, Iphone Widget Template, Smartphone login forms,Login form, Widget Template, Responsive Templates, a Ipad 404 Templates, Flat Responsive Templates" />
+<link href="css/style.css" rel='stylesheet' type='text/css' />
+<!--webfonts-->
+<link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,300italic' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Calligraffitti' rel='stylesheet' type='text/css'>
+<!--//webfonts-->
+</head>
+<body id = "app">
+ <!--SIGN UP-->
+ <h1><%= title %></h1>
+ <h1>{{message}}</h1>
+<div class="login-form">
+	<div class="head-info">
+		<h2>Moke8</h2>
+		<h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Donec auctor neque sed pretium luctus.</h3>
+	</div>
+	<form>
+		<input v-model="account" type="text" class="text" value="Email" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Email';}" >
+		<input v-model="password" type="password" value="Password" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Password';}">
+		<input type="submit" v-on:click="login" value="Login" >
+	</form>
+	<div class="password">
+		<a href="#">Password   |   Register</a>
+	</div>
+</div>
+ <!--/SIGN UP-->
+ <div class="copy-rights">
+		<p>Template by <a href="http://www.moke8.com/" target="_blank">moke8</a> </p>
+ </div>
+
+</body>
+<script type="text/javascript" src = "http://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+<script type="text/javascript">
+	new Vue({
+	    el:'#app',
+	    data: {
+	        message:'Hello World!',
+	        account: '',
+	        password: ''
+	    },
+	     methods: {
+			login: function (event) {
+				var data = {
+					account: this.account,
+					password: this.password
+				}
+				$.ajax({
+					type: "POST",
+					url: "login",
+					data: data,
+					dataType: "json",
+					success: function(data){
+				  		alert('success');	
+				    }
+				});
+			}
+		}
+	});
+</script>
+</html>

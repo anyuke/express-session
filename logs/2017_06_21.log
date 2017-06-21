@@ -1,0 +1,1772 @@
+[2017-06-21 09:53:37.791] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 09:53:39.270] [INFO] [APP_ANYUKE] - Not Found
+[2017-06-21 09:53:39.274] [INFO] [APP_ANYUKE] - GET /favicon.ico
+[2017-06-21 09:55:25.675] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 09:55:25.724] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 09:55:26.213] [INFO] [APP_ANYUKE] - Not Found
+[2017-06-21 09:55:26.223] [INFO] [APP_ANYUKE] - GET /favicon.ico
+[2017-06-21 09:56:49.357] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 09:57:05.998] [INFO] [APP_ANYUKE] - Not Found
+[2017-06-21 09:57:06.006] [INFO] [APP_ANYUKE] - GET /loginhg
+[2017-06-21 09:58:54.530] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 09:58:54.583] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 09:58:54.828] [INFO] [APP_ANYUKE] - Not Found
+[2017-06-21 09:58:54.831] [INFO] [APP_ANYUKE] - GET /favicon.ico
+[2017-06-21 09:59:02.564] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 10:00:31.040] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 10:01:40.691] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 10:01:40.709] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 10:01:49.448] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 10:01:49.489] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 10:01:49.702] [INFO] [APP_ANYUKE] - Not Found
+[2017-06-21 10:01:49.706] [INFO] [APP_ANYUKE] - GET /favicon.ico
+[2017-06-21 10:02:36.638] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 10:02:36.669] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 10:02:39.980] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 10:02:40.785] [INFO] [APP_ANYUKE] - Not Found
+[2017-06-21 10:02:40.790] [INFO] [APP_ANYUKE] - GET /favicon.ico
+[2017-06-21 10:02:55.842] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 10:02:55.871] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 10:02:56.118] [INFO] [APP_ANYUKE] - Not Found
+[2017-06-21 10:02:56.122] [INFO] [APP_ANYUKE] - GET /favicon.ico
+[2017-06-21 10:03:53.276] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 10:03:53.335] [INFO] [APP_ANYUKE] - Not Found
+[2017-06-21 10:03:53.339] [INFO] [APP_ANYUKE] - GET /favicon.ico
+[2017-06-21 10:04:25.156] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 10:04:25.181] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 10:04:25.216] [INFO] [APP_ANYUKE] - Not Found
+[2017-06-21 10:04:25.218] [INFO] [APP_ANYUKE] - GET /favicon.ico
+[2017-06-21 10:04:58.115] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 10:05:11.746] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 10:05:11.783] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 10:05:11.818] [INFO] [APP_ANYUKE] - Not Found
+[2017-06-21 10:05:11.820] [INFO] [APP_ANYUKE] - GET /favicon.ico
+[2017-06-21 10:05:15.720] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 10:05:54.533] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 10:05:54.602] [INFO] [APP_ANYUKE] - Not Found
+[2017-06-21 10:05:54.606] [INFO] [APP_ANYUKE] - GET /favicon.ico
+[2017-06-21 10:07:29.173] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 10:07:29.214] [INFO] [APP_ANYUKE] - Not Found
+[2017-06-21 10:07:29.218] [INFO] [APP_ANYUKE] - GET /favicon.ico
+[2017-06-21 10:08:10.802] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 10:08:10.822] [INFO] router - session id: 8hqwuvpNidMQZgZaPtbDtKE9nea7sgpE
+[2017-06-21 10:08:10.832] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 10:08:11.025] [INFO] [APP_ANYUKE] - Not Found
+[2017-06-21 10:08:11.030] [INFO] [APP_ANYUKE] - GET /favicon.ico
+[2017-06-21 10:08:21.549] [INFO] router - session id: 8hqwuvpNidMQZgZaPtbDtKE9nea7sgpE
+[2017-06-21 10:08:21.552] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 10:08:55.000] [INFO] router - session id: 8hqwuvpNidMQZgZaPtbDtKE9nea7sgpE
+[2017-06-21 10:08:55.003] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 10:09:21.847] [INFO] router - session id: 8hqwuvpNidMQZgZaPtbDtKE9nea7sgpE
+[2017-06-21 10:09:21.851] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 10:09:35.534] [INFO] router - session id: 8hqwuvpNidMQZgZaPtbDtKE9nea7sgpE
+[2017-06-21 10:09:35.537] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 10:09:37.388] [INFO] router - session id: 8hqwuvpNidMQZgZaPtbDtKE9nea7sgpE
+[2017-06-21 10:09:37.391] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 10:10:03.165] [INFO] router - session id: 8hqwuvpNidMQZgZaPtbDtKE9nea7sgpE
+[2017-06-21 10:10:03.172] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 10:10:19.288] [INFO] router - session id: 8hqwuvpNidMQZgZaPtbDtKE9nea7sgpE
+[2017-06-21 10:10:19.292] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 10:10:54.700] [INFO] router - session id: 8hqwuvpNidMQZgZaPtbDtKE9nea7sgpE
+[2017-06-21 10:10:54.703] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 10:10:55.059] [INFO] [APP_ANYUKE] - Not Found
+[2017-06-21 10:10:55.062] [INFO] [APP_ANYUKE] - GET /favicon.ico
+[2017-06-21 10:11:19.970] [INFO] router - session id: 8hqwuvpNidMQZgZaPtbDtKE9nea7sgpE
+[2017-06-21 10:11:19.973] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 10:11:27.345] [INFO] router - session id: 8hqwuvpNidMQZgZaPtbDtKE9nea7sgpE
+[2017-06-21 10:11:27.348] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 10:11:58.737] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 10:11:58.745] [INFO] router - session id: 8hqwuvpNidMQZgZaPtbDtKE9nea7sgpE
+[2017-06-21 10:11:58.746] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 10:11:58.962] [INFO] [APP_ANYUKE] - Not Found
+[2017-06-21 10:11:58.966] [INFO] [APP_ANYUKE] - GET /favicon.ico
+[2017-06-21 10:12:02.111] [INFO] router - session id: 8hqwuvpNidMQZgZaPtbDtKE9nea7sgpE
+[2017-06-21 10:12:02.113] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 10:15:13.867] [INFO] router - session id: 8hqwuvpNidMQZgZaPtbDtKE9nea7sgpE
+[2017-06-21 10:15:13.886] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 10:15:27.859] [INFO] router - session id: 8hqwuvpNidMQZgZaPtbDtKE9nea7sgpE
+[2017-06-21 10:15:27.864] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 10:15:34.362] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 10:15:34.371] [INFO] router - session id: 8hqwuvpNidMQZgZaPtbDtKE9nea7sgpE
+[2017-06-21 10:15:34.384] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 10:15:41.115] [INFO] router - session id: 8hqwuvpNidMQZgZaPtbDtKE9nea7sgpE
+[2017-06-21 10:15:41.118] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 10:16:13.369] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 10:16:13.384] [INFO] router - session id: 8hqwuvpNidMQZgZaPtbDtKE9nea7sgpE
+[2017-06-21 10:16:13.394] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 10:16:19.818] [INFO] router - session id: 8hqwuvpNidMQZgZaPtbDtKE9nea7sgpE
+[2017-06-21 10:16:19.822] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 10:16:25.793] [INFO] router - session id: 8hqwuvpNidMQZgZaPtbDtKE9nea7sgpE
+[2017-06-21 10:16:25.798] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 10:16:32.112] [INFO] router - session id: 8hqwuvpNidMQZgZaPtbDtKE9nea7sgpE
+[2017-06-21 10:16:32.114] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 10:16:33.430] [INFO] router - session id: 8hqwuvpNidMQZgZaPtbDtKE9nea7sgpE
+[2017-06-21 10:16:33.433] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 10:21:39.490] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 10:21:39.519] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 10:21:56.067] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 10:21:56.105] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 10:22:00.216] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 10:22:09.831] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 10:22:09.836] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 10:22:10.066] [INFO] [APP_ANYUKE] - Not Found
+[2017-06-21 10:22:10.082] [INFO] [APP_ANYUKE] - GET /favicon.ico
+[2017-06-21 10:22:22.019] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 10:22:32.625] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 10:22:32.652] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 10:22:39.635] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 10:23:39.213] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 10:23:39.273] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 10:23:50.622] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 10:24:07.002] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 10:24:24.232] [INFO] router - req.body.account: Email
+[2017-06-21 10:24:24.232] [INFO] router - req.body.password: Password
+[2017-06-21 10:24:24.361] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 10:24:45.902] [ERROR] console - ORA-12170: TNS:Connect timeout occurred
+
+[2017-06-21 10:25:29.353] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 10:34:05.532] [INFO] console - connectpool establish!!
+[2017-06-21 10:34:47.495] [INFO] console - connectpool establish!!
+[2017-06-21 10:35:28.978] [INFO] console - connectpool establish!!
+[2017-06-21 10:35:37.948] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 10:35:40.537] [INFO] router - req.body.account: Email
+[2017-06-21 10:35:40.537] [INFO] router - req.body.password: Password
+[2017-06-21 10:35:40.537] [INFO] router - oraclepool: Pool {
+  stmtCacheSize: 30,
+  connectionsInUse: 0,
+  connectionsOpen: 0,
+  poolTimeout: 60,
+  poolIncrement: 1,
+  poolMin: 0,
+  poolMax: 4,
+  queueRequests: [Getter/Setter],
+  queueTimeout: [Getter/Setter],
+  getConnection: [Function],
+  terminate: [Function],
+  close: [Function] }
+[2017-06-21 10:35:40.567] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 10:37:48.268] [INFO] console - connectpool establish!!
+[2017-06-21 10:37:56.738] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 10:37:58.599] [INFO] router - req.body.account: Email
+[2017-06-21 10:37:58.599] [INFO] router - req.body.password: Password
+[2017-06-21 10:37:58.599] [INFO] router - oraclepool: Pool {
+  stmtCacheSize: 30,
+  connectionsInUse: 0,
+  connectionsOpen: 0,
+  poolTimeout: 60,
+  poolIncrement: 1,
+  poolMin: 0,
+  poolMax: 4,
+  queueRequests: [Getter/Setter],
+  queueTimeout: [Getter/Setter],
+  getConnection: [Function],
+  terminate: [Function],
+  close: [Function] }
+[2017-06-21 10:37:58.619] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 10:37:59.799] [ERROR] router - [Error: ORA-12541: TNS:no listener
+]
+Error: ORA-12541: TNS:no listener
+
+    at Error (native)
+[2017-06-21 10:38:49.798] [INFO] router - req.body.account: Email
+[2017-06-21 10:38:49.798] [INFO] router - req.body.password: Password
+[2017-06-21 10:38:49.799] [INFO] router - oraclepool: Pool {
+  stmtCacheSize: 30,
+  connectionsInUse: 0,
+  connectionsOpen: 0,
+  poolTimeout: 60,
+  poolIncrement: 1,
+  poolMin: 0,
+  poolMax: 4,
+  queueRequests: [Getter/Setter],
+  queueTimeout: [Getter/Setter],
+  getConnection: [Function],
+  terminate: [Function],
+  close: [Function] }
+[2017-06-21 10:38:49.807] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 10:38:51.006] [ERROR] router - [Error: ORA-12541: TNS:no listener
+]
+Error: ORA-12541: TNS:no listener
+
+    at Error (native)
+[2017-06-21 15:44:21.997] [INFO] console - connectpool establish!!
+[2017-06-21 15:44:33.251] [INFO] console - connectpool establish!!
+[2017-06-21 15:44:33.328] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 15:44:33.350] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 15:44:34.084] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 15:44:34.099] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 15:44:34.140] [INFO] [APP_ANYUKE] - Not Found
+[2017-06-21 15:44:34.143] [INFO] [APP_ANYUKE] - GET /favicon.ico
+[2017-06-21 15:44:34.468] [INFO] [APP_ANYUKE] - Not Found
+[2017-06-21 15:44:34.470] [INFO] [APP_ANYUKE] - GET /favicon.ico
+[2017-06-21 15:44:42.270] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 15:45:12.759] [INFO] console - connectpool establish!!
+[2017-06-21 15:45:13.594] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 15:45:13.614] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 15:45:14.084] [INFO] [APP_ANYUKE] - Not Found
+[2017-06-21 15:45:14.091] [INFO] [APP_ANYUKE] - GET /favicon.ico
+[2017-06-21 15:45:36.962] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 15:45:45.374] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 15:45:46.162] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 15:45:46.774] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 15:45:47.305] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 15:45:47.800] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 15:45:48.249] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 15:45:48.688] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 15:45:49.179] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 15:45:49.638] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 15:45:50.122] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 15:45:50.591] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 15:45:51.252] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 15:46:11.120] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 15:46:12.247] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 15:46:13.513] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 15:46:14.327] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 15:46:14.873] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 15:46:15.350] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 15:46:15.796] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 15:46:16.192] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 15:46:17.413] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 15:46:46.348] [INFO] console - connectpool establish!!
+[2017-06-21 15:47:57.344] [INFO] console - connectpool establish!!
+[2017-06-21 15:49:13.423] [INFO] console - connectpool establish!!
+[2017-06-21 15:49:21.185] [INFO] console - req: IncomingMessage {
+  _readableState: 
+   ReadableState {
+     objectMode: false,
+     highWaterMark: 16384,
+     buffer: [],
+     length: 0,
+     pipes: null,
+     pipesCount: 0,
+     flowing: null,
+     ended: true,
+     endEmitted: false,
+     reading: false,
+     sync: true,
+     needReadable: false,
+     emittedReadable: true,
+     readableListening: false,
+     resumeScheduled: false,
+     defaultEncoding: 'utf8',
+     ranOut: false,
+     awaitDrain: 0,
+     readingMore: true,
+     decoder: null,
+     encoding: null },
+  readable: true,
+  domain: null,
+  _events: {},
+  _eventsCount: 0,
+  _maxListeners: undefined,
+  socket: 
+   Socket {
+     _connecting: false,
+     _hadError: false,
+     _handle: 
+      TCP {
+        bytesRead: 499,
+        _externalStream: {},
+        fd: -1,
+        reading: true,
+        owner: [Circular],
+        onread: [Function: onread],
+        onconnection: null,
+        writeQueueSize: 0 },
+     _parent: null,
+     _host: null,
+     _readableState: 
+      ReadableState {
+        objectMode: false,
+        highWaterMark: 16384,
+        buffer: [],
+        length: 0,
+        pipes: null,
+        pipesCount: 0,
+        flowing: true,
+        ended: false,
+        endEmitted: false,
+        reading: true,
+        sync: false,
+        needReadable: true,
+        emittedReadable: false,
+        readableListening: false,
+        resumeScheduled: false,
+        defaultEncoding: 'utf8',
+        ranOut: false,
+        awaitDrain: 0,
+        readingMore: false,
+        decoder: null,
+        encoding: null },
+     readable: true,
+     domain: null,
+     _events: 
+      { end: [Object],
+        finish: [Function: onSocketFinish],
+        _socketEnd: [Function: onSocketEnd],
+        drain: [Object],
+        timeout: [Function],
+        error: [Object],
+        close: [Object],
+        data: [Function: socketOnData],
+        resume: [Function: onSocketResume],
+        pause: [Function: onSocketPause] },
+     _eventsCount: 10,
+     _maxListeners: undefined,
+     _writableState: 
+      WritableState {
+        objectMode: false,
+        highWaterMark: 16384,
+        needDrain: false,
+        ending: false,
+        ended: false,
+        finished: false,
+        decodeStrings: false,
+        defaultEncoding: 'utf8',
+        length: 0,
+        writing: false,
+        corked: 0,
+        sync: true,
+        bufferProcessing: false,
+        onwrite: [Function],
+        writecb: null,
+        writelen: 0,
+        bufferedRequest: null,
+        lastBufferedRequest: null,
+        pendingcb: 0,
+        prefinished: false,
+        errorEmitted: false,
+        bufferedRequestCount: 0,
+        corkedRequestsFree: [Object] },
+     writable: true,
+     allowHalfOpen: true,
+     destroyed: false,
+     _bytesDispatched: 0,
+     _sockname: null,
+     _pendingData: null,
+     _pendingEncoding: '',
+     server: 
+      Server {
+        domain: null,
+        _events: [Object],
+        _eventsCount: 5,
+        _maxListeners: undefined,
+        _connections: 1,
+        _handle: [Object],
+        _usingSlaves: false,
+        _slaves: [],
+        _unref: false,
+        allowHalfOpen: true,
+        pauseOnConnect: false,
+        httpAllowHalfOpen: false,
+        timeout: 120000,
+        _pendingResponseData: 0,
+        _connectionKey: '6::::4000' },
+     _server: 
+      Server {
+        domain: null,
+        _events: [Object],
+        _eventsCount: 5,
+        _maxListeners: undefined,
+        _connections: 1,
+        _handle: [Object],
+        _usingSlaves: false,
+        _slaves: [],
+        _unref: false,
+        allowHalfOpen: true,
+        pauseOnConnect: false,
+        httpAllowHalfOpen: false,
+        timeout: 120000,
+        _pendingResponseData: 0,
+        _connectionKey: '6::::4000' },
+     _idleTimeout: 120000,
+     _idleNext: { _idleNext: [Circular], _idlePrev: [Circular] },
+     _idlePrev: { _idleNext: [Circular], _idlePrev: [Circular] },
+     _idleStart: 8189,
+     parser: 
+      HTTPParser {
+        '0': [Function: parserOnHeaders],
+        '1': [Function: parserOnHeadersComplete],
+        '2': [Function: parserOnBody],
+        '3': [Function: parserOnMessageComplete],
+        '4': [Function: onParserExecute],
+        _headers: [],
+        _url: '',
+        _consumed: true,
+        socket: [Circular],
+        incoming: [Circular],
+        outgoing: null,
+        maxHeaderPairs: 2000,
+        onIncoming: [Function: parserOnIncoming] },
+     on: [Function: socketOnWrap],
+     _paused: false,
+     read: [Function],
+     _consuming: true,
+     _httpMessage: 
+      ServerResponse {
+        domain: null,
+        _events: [Object],
+        _eventsCount: 2,
+        _maxListeners: undefined,
+        output: [],
+        outputEncodings: [],
+        outputCallbacks: [],
+        outputSize: 0,
+        writable: true,
+        _last: false,
+        chunkedEncoding: false,
+        shouldKeepAlive: false,
+        useChunkedEncodingByDefault: true,
+        sendDate: true,
+        _removedHeader: {},
+        _contentLength: null,
+        _hasBody: true,
+        _trailer: '',
+        finished: false,
+        _headerSent: false,
+        socket: [Circular],
+        connection: [Circular],
+        _header: null,
+        _headers: [Object],
+        _headerNames: [Object],
+        _onPendingData: [Function: updateOutgoingData],
+        req: [Circular],
+        locals: {},
+        _startAt: undefined,
+        _startTime: undefined,
+        writeHead: [Function: writeHead],
+        __onFinished: [Object],
+        end: [Function: end] },
+     _peername: { address: '::ffff:127.0.0.1', family: 'IPv6', port: 52223 } },
+  connection: 
+   Socket {
+     _connecting: false,
+     _hadError: false,
+     _handle: 
+      TCP {
+        bytesRead: 499,
+        _externalStream: {},
+        fd: -1,
+        reading: true,
+        owner: [Circular],
+        onread: [Function: onread],
+        onconnection: null,
+        writeQueueSize: 0 },
+     _parent: null,
+     _host: null,
+     _readableState: 
+      ReadableState {
+        objectMode: false,
+        highWaterMark: 16384,
+        buffer: [],
+        length: 0,
+        pipes: null,
+        pipesCount: 0,
+        flowing: true,
+        ended: false,
+        endEmitted: false,
+        reading: true,
+        sync: false,
+        needReadable: true,
+        emittedReadable: false,
+        readableListening: false,
+        resumeScheduled: false,
+        defaultEncoding: 'utf8',
+        ranOut: false,
+        awaitDrain: 0,
+        readingMore: false,
+        decoder: null,
+        encoding: null },
+     readable: true,
+     domain: null,
+     _events: 
+      { end: [Object],
+        finish: [Function: onSocketFinish],
+        _socketEnd: [Function: onSocketEnd],
+        drain: [Object],
+        timeout: [Function],
+        error: [Object],
+        close: [Object],
+        data: [Function: socketOnData],
+        resume: [Function: onSocketResume],
+        pause: [Function: onSocketPause] },
+     _eventsCount: 10,
+     _maxListeners: undefined,
+     _writableState: 
+      WritableState {
+        objectMode: false,
+        highWaterMark: 16384,
+        needDrain: false,
+        ending: false,
+        ended: false,
+        finished: false,
+        decodeStrings: false,
+        defaultEncoding: 'utf8',
+        length: 0,
+        writing: false,
+        corked: 0,
+        sync: true,
+        bufferProcessing: false,
+        onwrite: [Function],
+        writecb: null,
+        writelen: 0,
+        bufferedRequest: null,
+        lastBufferedRequest: null,
+        pendingcb: 0,
+        prefinished: false,
+        errorEmitted: false,
+        bufferedRequestCount: 0,
+        corkedRequestsFree: [Object] },
+     writable: true,
+     allowHalfOpen: true,
+     destroyed: false,
+     _bytesDispatched: 0,
+     _sockname: null,
+     _pendingData: null,
+     _pendingEncoding: '',
+     server: 
+      Server {
+        domain: null,
+        _events: [Object],
+        _eventsCount: 5,
+        _maxListeners: undefined,
+        _connections: 1,
+        _handle: [Object],
+        _usingSlaves: false,
+        _slaves: [],
+        _unref: false,
+        allowHalfOpen: true,
+        pauseOnConnect: false,
+        httpAllowHalfOpen: false,
+        timeout: 120000,
+        _pendingResponseData: 0,
+        _connectionKey: '6::::4000' },
+     _server: 
+      Server {
+        domain: null,
+        _events: [Object],
+        _eventsCount: 5,
+        _maxListeners: undefined,
+        _connections: 1,
+        _handle: [Object],
+        _usingSlaves: false,
+        _slaves: [],
+        _unref: false,
+        allowHalfOpen: true,
+        pauseOnConnect: false,
+        httpAllowHalfOpen: false,
+        timeout: 120000,
+        _pendingResponseData: 0,
+        _connectionKey: '6::::4000' },
+     _idleTimeout: 120000,
+     _idleNext: { _idleNext: [Circular], _idlePrev: [Circular] },
+     _idlePrev: { _idleNext: [Circular], _idlePrev: [Circular] },
+     _idleStart: 8189,
+     parser: 
+      HTTPParser {
+        '0': [Function: parserOnHeaders],
+        '1': [Function: parserOnHeadersComplete],
+        '2': [Function: parserOnBody],
+        '3': [Function: parserOnMessageComplete],
+        '4': [Function: onParserExecute],
+        _headers: [],
+        _url: '',
+        _consumed: true,
+        socket: [Circular],
+        incoming: [Circular],
+        outgoing: null,
+        maxHeaderPairs: 2000,
+        onIncoming: [Function: parserOnIncoming] },
+     on: [Function: socketOnWrap],
+     _paused: false,
+     read: [Function],
+     _consuming: true,
+     _httpMessage: 
+      ServerResponse {
+        domain: null,
+        _events: [Object],
+        _eventsCount: 2,
+        _maxListeners: undefined,
+        output: [],
+        outputEncodings: [],
+        outputCallbacks: [],
+        outputSize: 0,
+        writable: true,
+        _last: false,
+        chunkedEncoding: false,
+        shouldKeepAlive: false,
+        useChunkedEncodingByDefault: true,
+        sendDate: true,
+        _removedHeader: {},
+        _contentLength: null,
+        _hasBody: true,
+        _trailer: '',
+        finished: false,
+        _headerSent: false,
+        socket: [Circular],
+        connection: [Circular],
+        _header: null,
+        _headers: [Object],
+        _headerNames: [Object],
+        _onPendingData: [Function: updateOutgoingData],
+        req: [Circular],
+        locals: {},
+        _startAt: undefined,
+        _startTime: undefined,
+        writeHead: [Function: writeHead],
+        __onFinished: [Object],
+        end: [Function: end] },
+     _peername: { address: '::ffff:127.0.0.1', family: 'IPv6', port: 52223 } },
+  httpVersionMajor: 1,
+  httpVersionMinor: 1,
+  httpVersion: '1.1',
+  complete: true,
+  headers: 
+   { cookie: 'saas.session=s%3ApwD3ud-s9I_x1ZRM0QTT6SIYNlGX70kF.lz8Dj17I3aU%2F3S38qGdRJnQVL5Poa%2B4ThkoQSM%2BWZ38; io=QptVRjQY3xPm5OuZAAAA',
+     'accept-language': 'zh-CN,zh;q=0.8,en;q=0.6',
+     'accept-encoding': 'identity',
+     'user-agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36',
+     'upgrade-insecure-requests': '1',
+     accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+     connection: 'close',
+     host: 'localhost:4000' },
+  rawHeaders: 
+   [ 'cookie',
+     'saas.session=s%3ApwD3ud-s9I_x1ZRM0QTT6SIYNlGX70kF.lz8Dj17I3aU%2F3S38qGdRJnQVL5Poa%2B4ThkoQSM%2BWZ38; io=QptVRjQY3xPm5OuZAAAA',
+     'accept-language',
+     'zh-CN,zh;q=0.8,en;q=0.6',
+     'accept-encoding',
+     'identity',
+     'user-agent',
+     'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36',
+     'upgrade-insecure-requests',
+     '1',
+     'accept',
+     'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+     'connection',
+     'close',
+     'host',
+     'localhost:4000' ],
+  trailers: {},
+  rawTrailers: [],
+  upgrade: false,
+  url: '/',
+  method: 'GET',
+  statusCode: null,
+  statusMessage: null,
+  client: 
+   Socket {
+     _connecting: false,
+     _hadError: false,
+     _handle: 
+      TCP {
+        bytesRead: 499,
+        _externalStream: {},
+        fd: -1,
+        reading: true,
+        owner: [Circular],
+        onread: [Function: onread],
+        onconnection: null,
+        writeQueueSize: 0 },
+     _parent: null,
+     _host: null,
+     _readableState: 
+      ReadableState {
+        objectMode: false,
+        highWaterMark: 16384,
+        buffer: [],
+        length: 0,
+        pipes: null,
+        pipesCount: 0,
+        flowing: true,
+        ended: false,
+        endEmitted: false,
+        reading: true,
+        sync: false,
+        needReadable: true,
+        emittedReadable: false,
+        readableListening: false,
+        resumeScheduled: false,
+        defaultEncoding: 'utf8',
+        ranOut: false,
+        awaitDrain: 0,
+        readingMore: false,
+        decoder: null,
+        encoding: null },
+     readable: true,
+     domain: null,
+     _events: 
+      { end: [Object],
+        finish: [Function: onSocketFinish],
+        _socketEnd: [Function: onSocketEnd],
+        drain: [Object],
+        timeout: [Function],
+        error: [Object],
+        close: [Object],
+        data: [Function: socketOnData],
+        resume: [Function: onSocketResume],
+        pause: [Function: onSocketPause] },
+     _eventsCount: 10,
+     _maxListeners: undefined,
+     _writableState: 
+      WritableState {
+        objectMode: false,
+        highWaterMark: 16384,
+        needDrain: false,
+        ending: false,
+        ended: false,
+        finished: false,
+        decodeStrings: false,
+        defaultEncoding: 'utf8',
+        length: 0,
+        writing: false,
+        corked: 0,
+        sync: true,
+        bufferProcessing: false,
+        onwrite: [Function],
+        writecb: null,
+        writelen: 0,
+        bufferedRequest: null,
+        lastBufferedRequest: null,
+        pendingcb: 0,
+        prefinished: false,
+        errorEmitted: false,
+        bufferedRequestCount: 0,
+        corkedRequestsFree: [Object] },
+     writable: true,
+     allowHalfOpen: true,
+     destroyed: false,
+     _bytesDispatched: 0,
+     _sockname: null,
+     _pendingData: null,
+     _pendingEncoding: '',
+     server: 
+      Server {
+        domain: null,
+        _events: [Object],
+        _eventsCount: 5,
+        _maxListeners: undefined,
+        _connections: 1,
+        _handle: [Object],
+        _usingSlaves: false,
+        _slaves: [],
+        _unref: false,
+        allowHalfOpen: true,
+        pauseOnConnect: false,
+        httpAllowHalfOpen: false,
+        timeout: 120000,
+        _pendingResponseData: 0,
+        _connectionKey: '6::::4000' },
+     _server: 
+      Server {
+        domain: null,
+        _events: [Object],
+        _eventsCount: 5,
+        _maxListeners: undefined,
+        _connections: 1,
+        _handle: [Object],
+        _usingSlaves: false,
+        _slaves: [],
+        _unref: false,
+        allowHalfOpen: true,
+        pauseOnConnect: false,
+        httpAllowHalfOpen: false,
+        timeout: 120000,
+        _pendingResponseData: 0,
+        _connectionKey: '6::::4000' },
+     _idleTimeout: 120000,
+     _idleNext: { _idleNext: [Circular], _idlePrev: [Circular] },
+     _idlePrev: { _idleNext: [Circular], _idlePrev: [Circular] },
+     _idleStart: 8189,
+     parser: 
+      HTTPParser {
+        '0': [Function: parserOnHeaders],
+        '1': [Function: parserOnHeadersComplete],
+        '2': [Function: parserOnBody],
+        '3': [Function: parserOnMessageComplete],
+        '4': [Function: onParserExecute],
+        _headers: [],
+        _url: '',
+        _consumed: true,
+        socket: [Circular],
+        incoming: [Circular],
+        outgoing: null,
+        maxHeaderPairs: 2000,
+        onIncoming: [Function: parserOnIncoming] },
+     on: [Function: socketOnWrap],
+     _paused: false,
+     read: [Function],
+     _consuming: true,
+     _httpMessage: 
+      ServerResponse {
+        domain: null,
+        _events: [Object],
+        _eventsCount: 2,
+        _maxListeners: undefined,
+        output: [],
+        outputEncodings: [],
+        outputCallbacks: [],
+        outputSize: 0,
+        writable: true,
+        _last: false,
+        chunkedEncoding: false,
+        shouldKeepAlive: false,
+        useChunkedEncodingByDefault: true,
+        sendDate: true,
+        _removedHeader: {},
+        _contentLength: null,
+        _hasBody: true,
+        _trailer: '',
+        finished: false,
+        _headerSent: false,
+        socket: [Circular],
+        connection: [Circular],
+        _header: null,
+        _headers: [Object],
+        _headerNames: [Object],
+        _onPendingData: [Function: updateOutgoingData],
+        req: [Circular],
+        locals: {},
+        _startAt: undefined,
+        _startTime: undefined,
+        writeHead: [Function: writeHead],
+        __onFinished: [Object],
+        end: [Function: end] },
+     _peername: { address: '::ffff:127.0.0.1', family: 'IPv6', port: 52223 } },
+  _consuming: false,
+  _dumped: false,
+  next: [Function: next],
+  baseUrl: '',
+  originalUrl: '/',
+  _parsedUrl: 
+   Url {
+     protocol: null,
+     slashes: null,
+     auth: null,
+     host: null,
+     port: null,
+     hostname: null,
+     hash: null,
+     search: null,
+     query: null,
+     pathname: '/',
+     path: '/',
+     href: '/',
+     _raw: '/' },
+  params: {},
+  query: {},
+  res: 
+   ServerResponse {
+     domain: null,
+     _events: { finish: [Object], end: [Function: onevent] },
+     _eventsCount: 2,
+     _maxListeners: undefined,
+     output: [],
+     outputEncodings: [],
+     outputCallbacks: [],
+     outputSize: 0,
+     writable: true,
+     _last: false,
+     chunkedEncoding: false,
+     shouldKeepAlive: false,
+     useChunkedEncodingByDefault: true,
+     sendDate: true,
+     _removedHeader: {},
+     _contentLength: null,
+     _hasBody: true,
+     _trailer: '',
+     finished: false,
+     _headerSent: false,
+     socket: 
+      Socket {
+        _connecting: false,
+        _hadError: false,
+        _handle: [Object],
+        _parent: null,
+        _host: null,
+        _readableState: [Object],
+        readable: true,
+        domain: null,
+        _events: [Object],
+        _eventsCount: 10,
+        _maxListeners: undefined,
+        _writableState: [Object],
+        writable: true,
+        allowHalfOpen: true,
+        destroyed: false,
+        _bytesDispatched: 0,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: [Object],
+        _server: [Object],
+        _idleTimeout: 120000,
+        _idleNext: [Object],
+        _idlePrev: [Object],
+        _idleStart: 8189,
+        parser: [Object],
+        on: [Function: socketOnWrap],
+        _paused: false,
+        read: [Function],
+        _consuming: true,
+        _httpMessage: [Circular],
+        _peername: [Object] },
+     connection: 
+      Socket {
+        _connecting: false,
+        _hadError: false,
+        _handle: [Object],
+        _parent: null,
+        _host: null,
+        _readableState: [Object],
+        readable: true,
+        domain: null,
+        _events: [Object],
+        _eventsCount: 10,
+        _maxListeners: undefined,
+        _writableState: [Object],
+        writable: true,
+        allowHalfOpen: true,
+        destroyed: false,
+        _bytesDispatched: 0,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: [Object],
+        _server: [Object],
+        _idleTimeout: 120000,
+        _idleNext: [Object],
+        _idlePrev: [Object],
+        _idleStart: 8189,
+        parser: [Object],
+        on: [Function: socketOnWrap],
+        _paused: false,
+        read: [Function],
+        _consuming: true,
+        _httpMessage: [Circular],
+        _peername: [Object] },
+     _header: null,
+     _headers: { 'x-powered-by': 'Express' },
+     _headerNames: { 'x-powered-by': 'X-Powered-By' },
+     _onPendingData: [Function: updateOutgoingData],
+     req: [Circular],
+     locals: {},
+     _startAt: undefined,
+     _startTime: undefined,
+     writeHead: [Function: writeHead],
+     __onFinished: { [Function: listener] queue: [Object] },
+     end: [Function: end] },
+  _startAt: [ 17818, 965084038 ],
+  _startTime: Wed Jun 21 2017 15:49:21 GMT+0800 (中国标准时间),
+  _remoteAddress: '::ffff:127.0.0.1',
+  body: {},
+  secret: undefined,
+  cookies: 
+   { 'saas.session': 's:pwD3ud-s9I_x1ZRM0QTT6SIYNlGX70kF.lz8Dj17I3aU/3S38qGdRJnQVL5Poa+4ThkoQSM+WZ38',
+     io: 'QptVRjQY3xPm5OuZAAAA' },
+  signedCookies: {},
+  _parsedOriginalUrl: 
+   Url {
+     protocol: null,
+     slashes: null,
+     auth: null,
+     host: null,
+     port: null,
+     hostname: null,
+     hash: null,
+     search: null,
+     query: null,
+     pathname: '/',
+     path: '/',
+     href: '/',
+     _raw: '/' },
+  _logging: true,
+  sessionStore: 
+   RedisStore {
+     prefix: 'sess:',
+     scanCount: 100,
+     serializer: {},
+     client: 
+      RedisClient {
+        domain: null,
+        _events: [Object],
+        _eventsCount: 3,
+        _maxListeners: undefined,
+        address: '127.0.0.1:6379',
+        connection_options: [Object],
+        connection_id: 0,
+        connected: true,
+        ready: true,
+        should_buffer: false,
+        max_attempts: 0,
+        command_queue: [Object],
+        offline_queue: [Object],
+        pipeline_queue: [Object],
+        connect_timeout: 3600000,
+        enable_offline_queue: true,
+        retry_max_delay: null,
+        retry_timer: null,
+        retry_totaltime: 0,
+        retry_delay: 200,
+        retry_backoff: 1.7,
+        attempts: 1,
+        pub_sub_mode: 0,
+        subscription_set: {},
+        monitoring: false,
+        message_buffers: false,
+        closing: false,
+        server_info: [Object],
+        auth_pass: undefined,
+        selected_db: 1,
+        old_state: null,
+        fire_strings: true,
+        pipeline: false,
+        sub_commands_left: 0,
+        times_connected: 1,
+        buffers: false,
+        options: [Object],
+        reply: 'ON',
+        reply_parser: [Object],
+        stream: [Object],
+        emitted_end: false,
+        cork: [Function],
+        uncork: [Function] },
+     ttl: undefined,
+     disableTTL: undefined,
+     generate: [Function],
+     _events: { disconnect: [Function], connect: [Function] },
+     _eventsCount: 2 },
+  sessionID: 'gZ6SIBkJFstybH7GwfCE80PMe3XpA0ve',
+  session: 
+   Session {
+     cookie: 
+      { path: '/',
+        _expires: Thu Jun 22 2017 15:49:21 GMT+0800 (中国标准时间),
+        originalMaxAge: 86400000,
+        httpOnly: true } },
+  route: 
+   Route {
+     path: '/',
+     stack: [ [Object], [Object] ],
+     methods: { get: true } } }
+[2017-06-21 15:49:21.241] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 15:49:21.259] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 15:50:33.306] [INFO] console - connectpool establish!!
+[2017-06-21 15:50:39.675] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 15:50:48.396] [INFO] console - req.cookies: { 'saas.session': 's:pwD3ud-s9I_x1ZRM0QTT6SIYNlGX70kF.lz8Dj17I3aU/3S38qGdRJnQVL5Poa+4ThkoQSM+WZ38',
+  session: 's:gZ6SIBkJFstybH7GwfCE80PMe3XpA0ve.KV5JCKmMM0ZlKNDh4ULWCGO853TNQIec4OphvgBiE5I',
+  io: 'oL_a3mz3Qab4fhWiAAAC' }
+[2017-06-21 15:50:48.416] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 15:50:48.426] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 15:51:22.791] [INFO] console - req.cookies: {}
+[2017-06-21 15:51:22.794] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 15:51:22.801] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 15:51:23.488] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 15:51:23.974] [INFO] [APP_ANYUKE] - Not Found
+[2017-06-21 15:51:23.977] [INFO] [APP_ANYUKE] - GET /favicon.ico
+[2017-06-21 15:51:38.428] [INFO] console - req.cookies: { session: 's:8ovJsF1sUtdjcO-psRAwv1dGJI0bMkTX.TvSmVfJA1NZesdL4v/3IM73zsMbcE15euJ73GEz8Thg',
+  io: 'J58MyKBwK2Z4VEhrAAAF' }
+[2017-06-21 15:51:38.429] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 15:51:38.435] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 15:51:38.565] [INFO] console - req.cookies: { session: 's:8ovJsF1sUtdjcO-psRAwv1dGJI0bMkTX.TvSmVfJA1NZesdL4v/3IM73zsMbcE15euJ73GEz8Thg',
+  io: 'J58MyKBwK2Z4VEhrAAAF' }
+[2017-06-21 15:51:38.566] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 15:51:38.576] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 15:52:30.037] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 16:05:32.689] [INFO] console - connectpool establish!!
+[2017-06-21 16:05:48.978] [INFO] console - connectpool establish!!
+[2017-06-21 16:05:49.847] [INFO] console - req.cookies: { io: '5KHW-HAGwHYtwZqyAAAG' }
+[2017-06-21 16:05:49.884] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 16:05:49.908] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 16:06:18.729] [INFO] console - req.cookies: { io: 'uzBoEurs6ryzq-e0AAAA' }
+[2017-06-21 16:06:18.732] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 16:06:18.739] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 16:06:18.939] [INFO] console - req.cookies: { session: 's:W0hfVTekGMYhBAiBoRH0btv0Y8CeUavI.1ztgU3t3naIFdHYuvWOTrO1YdaOx0Rx6HX1YfThVl0c',
+  io: '4MV9U1uM83_l-kJvAAAB' }
+[2017-06-21 16:06:18.941] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 16:06:18.963] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 16:06:27.609] [INFO] console - req.cookies: { session: 's:W0hfVTekGMYhBAiBoRH0btv0Y8CeUavI.1ztgU3t3naIFdHYuvWOTrO1YdaOx0Rx6HX1YfThVl0c',
+  io: 'd2tM3P0Y69dt30CLAAAC' }
+[2017-06-21 16:06:27.614] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 16:06:27.626] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 16:06:30.961] [INFO] console - req.cookies: { io: 'VdwWaRYOeas1X4rcAAAD' }
+[2017-06-21 16:06:30.963] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 16:06:30.975] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 16:06:43.583] [INFO] console - req.cookies: { io: 'm-wO5JPSX_fhybblAAAE' }
+[2017-06-21 16:06:43.587] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 16:06:43.595] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 16:06:46.750] [INFO] console - req.cookies: { session: 's:N5_M2tjoctDJJZZ2sobdEqQlephvnttO.TTZBvL3XwUcDYVxrGTJPPbNP1kqD8nHoz5fbJ1JE3Sk',
+  io: 'rB8yAnOOtVj4dWdRAAAF' }
+[2017-06-21 16:06:46.752] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 16:06:47.299] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 16:06:55.706] [INFO] console - req.cookies: { io: 'rB8yAnOOtVj4dWdRAAAF' }
+[2017-06-21 16:06:55.707] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 16:06:55.713] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 16:06:56.085] [INFO] console - req.cookies: { session: 's:0KCYUgAQeVuYtpSXBbDTPZCRDuTMuQqd.oOHNKE3AYzn7N4o3SDsBu+28Qo+R+s4K4eb+ys/bedA',
+  io: 'EABsrPMX85-YSWFvAAAG' }
+[2017-06-21 16:06:56.087] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 16:06:56.097] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 16:07:01.032] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 16:07:01.702] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 16:07:15.149] [INFO] console - connectpool establish!!
+[2017-06-21 16:09:55.631] [INFO] console - connectpool establish!!
+[2017-06-21 16:10:01.203] [INFO] console - connectpool establish!!
+[2017-06-21 16:10:01.926] [INFO] console - req.cookies.session: undefined
+[2017-06-21 16:10:01.941] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 16:10:01.967] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 16:10:29.907] [INFO] console - req.cookies.session: s:fN4Z6Kuvcw9zHMbYmC_3h40Mjc68hbnU.QKEr2mf4ce0rtxFzZTeQAdLzqtWO56E3TiZ3D4UD65Q
+[2017-06-21 16:10:29.909] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 16:10:29.924] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 16:10:32.509] [INFO] console - req.cookies.session: s:fN4Z6Kuvcw9zHMbYmC_3h40Mjc68hbnU.QKEr2mf4ce0rtxFzZTeQAdLzqtWO56E3TiZ3D4UD65Q
+[2017-06-21 16:10:32.511] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 16:10:32.520] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 16:10:41.795] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 16:10:42.257] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 16:11:03.156] [INFO] console - connectpool establish!!
+[2017-06-21 16:11:04.015] [INFO] console - req.cookies.session: s:fN4Z6Kuvcw9zHMbYmC_3h40Mjc68hbnU.QKEr2mf4ce0rtxFzZTeQAdLzqtWO56E3TiZ3D4UD65Q
+[2017-06-21 16:11:04.032] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 16:11:04.060] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 16:11:07.751] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 16:11:14.088] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 16:11:32.154] [INFO] console - connectpool establish!!
+[2017-06-21 16:11:33.007] [INFO] console - req.cookies.session: s:fN4Z6Kuvcw9zHMbYmC_3h40Mjc68hbnU.QKEr2mf4ce0rtxFzZTeQAdLzqtWO56E3TiZ3D4UD65Q
+[2017-06-21 16:11:33.027] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 16:11:33.064] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 16:11:54.617] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 16:11:58.190] [INFO] router - req.body.account: Email
+[2017-06-21 16:11:58.190] [INFO] router - req.body.password: Password
+[2017-06-21 16:11:58.190] [INFO] router - oraclepool: Pool {
+  stmtCacheSize: 30,
+  connectionsInUse: 0,
+  connectionsOpen: 0,
+  poolTimeout: 60,
+  poolIncrement: 1,
+  poolMin: 0,
+  poolMax: 4,
+  queueRequests: [Getter/Setter],
+  queueTimeout: [Getter/Setter],
+  getConnection: [Function],
+  terminate: [Function],
+  close: [Function] }
+[2017-06-21 16:11:58.233] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 16:11:59.695] [ERROR] router - [Error: ORA-12541: TNS:no listener
+]
+Error: ORA-12541: TNS:no listener
+
+    at Error (native)
+[2017-06-21 16:12:13.785] [INFO] console - req.cookies.session: s:fN4Z6Kuvcw9zHMbYmC_3h40Mjc68hbnU.QKEr2mf4ce0rtxFzZTeQAdLzqtWO56E3TiZ3D4UD65Q
+[2017-06-21 16:12:13.787] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 16:12:13.794] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 16:12:14.574] [INFO] console - req.cookies.session: s:fN4Z6Kuvcw9zHMbYmC_3h40Mjc68hbnU.QKEr2mf4ce0rtxFzZTeQAdLzqtWO56E3TiZ3D4UD65Q
+[2017-06-21 16:12:14.577] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 16:12:14.726] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 16:13:17.315] [INFO] console - connectpool establish!!
+[2017-06-21 16:13:21.736] [INFO] console - req.cookies.session: s:fN4Z6Kuvcw9zHMbYmC_3h40Mjc68hbnU.QKEr2mf4ce0rtxFzZTeQAdLzqtWO56E3TiZ3D4UD65Q
+[2017-06-21 16:13:21.737] [INFO] console - start: 1
+[2017-06-21 16:13:21.737] [INFO] console - end: 34
+[2017-06-21 16:13:21.750] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 16:13:21.774] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 16:14:24.465] [INFO] console - connectpool establish!!
+[2017-06-21 16:14:27.811] [INFO] console - req.cookies.session: s:fN4Z6Kuvcw9zHMbYmC_3h40Mjc68hbnU.QKEr2mf4ce0rtxFzZTeQAdLzqtWO56E3TiZ3D4UD65Q
+[2017-06-21 16:14:27.812] [INFO] console - start: 1
+[2017-06-21 16:14:27.812] [INFO] console - end: 34
+[2017-06-21 16:14:27.812] [INFO] console - cookies: :fN4Z6Kuvcw9zHMbYmC_3h40Mjc68hbnU
+[2017-06-21 16:14:27.824] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 16:14:27.850] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 16:14:43.011] [INFO] console - connectpool establish!!
+[2017-06-21 16:14:46.278] [INFO] console - req.cookies.session: s:fN4Z6Kuvcw9zHMbYmC_3h40Mjc68hbnU.QKEr2mf4ce0rtxFzZTeQAdLzqtWO56E3TiZ3D4UD65Q
+[2017-06-21 16:14:46.279] [INFO] console - start: 1
+[2017-06-21 16:14:46.279] [INFO] console - end: 34
+[2017-06-21 16:14:46.279] [INFO] console - cookies: fN4Z6Kuvcw9zHMbYmC_3h40Mjc68hbnU
+[2017-06-21 16:14:46.293] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 16:14:46.315] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 16:17:24.748] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 16:17:25.163] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 16:18:22.391] [INFO] console - connectpool establish!!
+[2017-06-21 16:18:27.961] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 16:18:32.682] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 16:34:33.354] [INFO] console - connectpool establish!!
+[2017-06-21 16:34:39.951] [INFO] console - connectpool establish!!
+[2017-06-21 16:34:40.787] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 16:36:59.655] [INFO] console - connectpool establish!!
+[2017-06-21 16:37:06.879] [INFO] console - connectpool establish!!
+[2017-06-21 16:37:11.465] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 16:37:25.635] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 16:39:09.120] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 16:39:09.146] [INFO] [APP_ANYUKE] - Not Found
+[2017-06-21 16:39:09.149] [INFO] [APP_ANYUKE] - GET /favicon.ico
+[2017-06-21 16:39:23.409] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 16:39:24.285] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 16:39:24.823] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 16:39:36.120] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 16:39:36.888] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 16:39:41.780] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 16:39:50.988] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 16:40:14.739] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 16:40:17.818] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-21 16:51:38.174] [INFO] console - connectpool establish!!
+[2017-06-21 16:51:43.411] [INFO] console - connectpool establish!!
+[2017-06-21 16:51:54.745] [INFO] console - connectpool establish!!
+[2017-06-21 16:52:16.518] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 16:52:16.532] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 16:52:23.495] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 16:52:25.181] [INFO] router - req.body.account: Email
+[2017-06-21 16:52:25.182] [INFO] router - req.body.password: Password
+[2017-06-21 16:52:25.182] [INFO] router - oraclepool: Pool {
+  stmtCacheSize: 30,
+  connectionsInUse: 0,
+  connectionsOpen: 0,
+  poolTimeout: 60,
+  poolIncrement: 1,
+  poolMin: 0,
+  poolMax: 4,
+  queueRequests: [Getter/Setter],
+  queueTimeout: [Getter/Setter],
+  getConnection: [Function],
+  terminate: [Function],
+  close: [Function] }
+[2017-06-21 16:52:25.201] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 16:52:26.367] [ERROR] router - [Error: ORA-12541: TNS:no listener
+]
+Error: ORA-12541: TNS:no listener
+
+    at Error (native)
+[2017-06-21 16:57:52.644] [INFO] console - connectpool establish!!
+[2017-06-21 16:58:00.107] [INFO] console - connectpool establish!!
+[2017-06-21 16:58:08.020] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 16:58:08.067] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 16:58:09.956] [INFO] router - req.body.account: Email
+[2017-06-21 16:58:09.956] [INFO] router - req.body.password: Password
+[2017-06-21 16:58:09.956] [INFO] router - oraclepool: Pool {
+  stmtCacheSize: 30,
+  connectionsInUse: 0,
+  connectionsOpen: 0,
+  poolTimeout: 60,
+  poolIncrement: 1,
+  poolMin: 0,
+  poolMax: 4,
+  queueRequests: [Getter/Setter],
+  queueTimeout: [Getter/Setter],
+  getConnection: [Function],
+  terminate: [Function],
+  close: [Function] }
+[2017-06-21 16:58:09.983] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 16:58:31.207] [ERROR] router - [Error: ORA-12170: TNS:Connect timeout occurred
+]
+Error: ORA-12170: TNS:Connect timeout occurred
+
+    at Error (native)
+[2017-06-21 16:58:43.781] [INFO] console - connectpool establish!!
+[2017-06-21 16:59:31.855] [INFO] router - req.body.account: Email
+[2017-06-21 16:59:31.855] [INFO] router - req.body.password: Password
+[2017-06-21 16:59:31.856] [INFO] router - oraclepool: Pool {
+  stmtCacheSize: 30,
+  connectionsInUse: 0,
+  connectionsOpen: 0,
+  poolTimeout: 60,
+  poolIncrement: 1,
+  poolMin: 0,
+  poolMax: 4,
+  queueRequests: [Getter/Setter],
+  queueTimeout: [Getter/Setter],
+  getConnection: [Function],
+  terminate: [Function],
+  close: [Function] }
+[2017-06-21 16:59:31.897] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 16:59:53.149] [ERROR] router - [Error: ORA-12170: TNS:Connect timeout occurred
+]
+Error: ORA-12170: TNS:Connect timeout occurred
+
+    at Error (native)
+[2017-06-21 17:00:06.147] [INFO] console - connectpool establish!!
+[2017-06-21 17:00:10.294] [INFO] router - req.body.account: Email
+[2017-06-21 17:00:10.294] [INFO] router - req.body.password: Password
+[2017-06-21 17:00:10.294] [INFO] router - oraclepool: Pool {
+  stmtCacheSize: 30,
+  connectionsInUse: 0,
+  connectionsOpen: 0,
+  poolTimeout: 60,
+  poolIncrement: 1,
+  poolMin: 0,
+  poolMax: 4,
+  queueRequests: [Getter/Setter],
+  queueTimeout: [Getter/Setter],
+  getConnection: [Function],
+  terminate: [Function],
+  close: [Function] }
+[2017-06-21 17:00:10.326] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:00:31.485] [ERROR] router - [Error: ORA-12170: TNS:Connect timeout occurred
+]
+Error: ORA-12170: TNS:Connect timeout occurred
+
+    at Error (native)
+[2017-06-21 17:01:10.395] [INFO] console - connectpool establish!!
+[2017-06-21 17:01:22.741] [INFO] router - req.body.account: Email
+[2017-06-21 17:01:22.742] [INFO] router - req.body.password: Password
+[2017-06-21 17:01:22.742] [INFO] router - oraclepool: Pool {
+  stmtCacheSize: 30,
+  connectionsInUse: 0,
+  connectionsOpen: 0,
+  poolTimeout: 60,
+  poolIncrement: 1,
+  poolMin: 0,
+  poolMax: 4,
+  queueRequests: [Getter/Setter],
+  queueTimeout: [Getter/Setter],
+  getConnection: [Function],
+  terminate: [Function],
+  close: [Function] }
+[2017-06-21 17:01:22.781] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:01:22.815] [INFO] router - success
+[2017-06-21 17:01:22.816] [INFO] router - connection: Connection {
+  oracleServerVersion: 1102000100,
+  action: null,
+  module: null,
+  clientId: null,
+  stmtCacheSize: 30,
+  queryStream: [Function: queryStream],
+  execute: [Function],
+  commit: [Function],
+  rollback: [Function],
+  release: [Function],
+  close: [Function],
+  break: [Function] }
+[2017-06-21 17:12:43.546] [INFO] console - connectpool establish!!
+[2017-06-21 17:12:57.586] [INFO] console - connectpool establish!!
+[2017-06-21 17:13:37.164] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:13:37.172] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:13:49.807] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:13:49.836] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:13:56.276] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:14:04.427] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:14:15.439] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:14:25.651] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 17:14:25.659] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 17:14:34.136] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:15:11.293] [INFO] console - connectpool establish!!
+[2017-06-21 17:15:21.992] [INFO] router - actor: { account: '李云飞', password: '123456' }
+[2017-06-21 17:15:22.030] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:15:22.078] [INFO] router - sql:  select *    from test_user tu    where tu.name = '李云飞'       and tu.password = '123456'
+[2017-06-21 17:20:01.812] [INFO] console - connectpool establish!!
+[2017-06-21 17:20:16.360] [INFO] router - actor: { account: '李云飞', password: '123456' }
+[2017-06-21 17:20:16.390] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:20:16.447] [INFO] router - sql:  select *    from test_user tu    where tu.name = '李云飞'       and tu.password = '123456'
+[2017-06-21 17:21:58.974] [INFO] console - connectpool establish!!
+[2017-06-21 17:22:10.530] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 17:22:10.544] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 17:22:10.878] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 17:22:10.894] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 17:22:17.038] [INFO] router - actor: { account: '李云飞', password: '123456' }
+[2017-06-21 17:22:17.053] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:22:17.113] [INFO] router - sql:  select *    from test_user tu    where tu.name = '李云飞'       and tu.password = '123456'
+[2017-06-21 17:27:25.156] [INFO] console - connectpool establish!!
+[2017-06-21 17:27:30.235] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:27:36.968] [INFO] router - actor: { account: '李云飞', password: '123456' }
+[2017-06-21 17:27:36.988] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:27:37.050] [INFO] router - sql:  select *    from test_user tu    where tu.name = '李云飞'       and tu.password = '123456'
+[2017-06-21 17:28:08.319] [INFO] console - connectpool establish!!
+[2017-06-21 17:28:17.357] [INFO] router - actor: { account: '李云飞', password: 'Password' }
+[2017-06-21 17:28:17.391] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:28:17.447] [INFO] router - sql:  select *    from test_user tu    where tu.name = '李云飞'       and tu.password = 'Password'
+[2017-06-21 17:42:00.633] [INFO] console - connectpool establish!!
+[2017-06-21 17:42:01.696] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 17:42:01.817] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 17:42:06.571] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 17:42:13.638] [INFO] router - actor: { account: '李云飞', password: '123456' }
+[2017-06-21 17:42:13.652] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:42:13.721] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:42:13.789] [INFO] router - sql:  select *    from test_user tu    where tu.name = '李云飞'       and tu.password = '123456'
+[2017-06-21 17:43:04.533] [INFO] console - connectpool establish!!
+[2017-06-21 17:43:10.784] [INFO] router - actor: { account: '李云飞', password: 'Password' }
+[2017-06-21 17:43:10.815] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:43:10.864] [INFO] router - sql:  select *    from test_user tu    where tu.name = '李云飞'       and tu.password = 'Password'
+[2017-06-21 17:44:02.018] [INFO] console - connectpool establish!!
+[2017-06-21 17:44:13.042] [INFO] console - connectpool establish!!
+[2017-06-21 17:44:18.168] [INFO] router - actor: { account: '李云飞', password: 'Password' }
+[2017-06-21 17:44:18.193] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:44:18.212] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:44:18.256] [INFO] router - sql:  select *    from test_user tu    where tu.name = '李云飞'       and tu.password = 'Password'
+[2017-06-21 17:44:18.261] [INFO] router - result.metadata: undefined
+[2017-06-21 17:44:28.122] [INFO] console - connectpool establish!!
+[2017-06-21 17:44:36.153] [INFO] router - actor: { account: '李云飞', password: 'Password' }
+[2017-06-21 17:44:36.189] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:44:36.252] [INFO] router - sql:  select *    from test_user tu    where tu.name = '李云飞'       and tu.password = 'Password'
+[2017-06-21 17:44:36.254] [INFO] router - result.metadata: undefined
+[2017-06-21 17:44:54.119] [INFO] console - connectpool establish!!
+[2017-06-21 17:45:02.827] [INFO] router - actor: { account: '李云飞', password: 'Password' }
+[2017-06-21 17:45:02.860] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:45:02.918] [INFO] router - sql:  select *    from test_user tu    where tu.name = '李云飞'       and tu.password = 'Password'
+[2017-06-21 17:45:02.922] [INFO] router - result.metadata: undefined
+[2017-06-21 17:45:22.070] [INFO] console - connectpool establish!!
+[2017-06-21 17:46:30.884] [INFO] console - connectpool establish!!
+[2017-06-21 17:46:40.833] [INFO] router - actor: { account: '李云飞', password: '123456' }
+[2017-06-21 17:46:40.887] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:46:40.913] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:46:40.920] [INFO] router - sql:  select *    from test_user tu    where tu.name = '李云飞'       and tu.password = '123456'
+[2017-06-21 17:46:40.923] [INFO] router - result.rows: [ [ 3, '李云飞', '123456' ] ]
+[2017-06-21 17:47:26.746] [INFO] console - connectpool establish!!
+[2017-06-21 17:47:37.770] [INFO] router - actor: { account: '李云飞', password: '123456' }
+[2017-06-21 17:47:37.847] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:47:37.857] [INFO] router - sql:  select *    from test_user tu    where tu.name = '李云飞'       and tu.password = '123456'
+[2017-06-21 17:47:37.861] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:47:37.865] [INFO] router - result.rows: undefined
+[2017-06-21 17:47:47.464] [INFO] console - connectpool establish!!
+[2017-06-21 17:49:05.664] [INFO] console - connectpool establish!!
+[2017-06-21 17:49:13.967] [INFO] router - actor: { account: '李云飞', password: '123456' }
+[2017-06-21 17:49:14.000] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:49:14.009] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:49:14.055] [INFO] router - sql:  select *    from test_user tu    where tu.name = '李云飞'       and tu.password = '123456'
+[2017-06-21 17:49:14.090] [INFO] router - result: { rows: [ [ 3, '李云飞', '123456' ] ],
+  resultSet: undefined,
+  outBinds: undefined,
+  rowsAffected: undefined,
+  metaData: [ { name: 'ID' }, { name: 'NAME' }, { name: 'PASSWORD' } ] }
+[2017-06-21 17:49:59.226] [INFO] console - connectpool establish!!
+[2017-06-21 17:50:10.822] [INFO] router - actor: { account: '李云飞', password: 'Password' }
+[2017-06-21 17:50:10.863] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:50:10.881] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:50:10.890] [INFO] router - sql:  select *    from test_user tu    where tu.name = '李云飞'       and tu.password = 'Password'
+[2017-06-21 17:50:10.902] [INFO] router - result: { rows: [],
+  resultSet: undefined,
+  outBinds: undefined,
+  rowsAffected: undefined,
+  metaData: [ { name: 'ID' }, { name: 'NAME' }, { name: 'PASSWORD' } ] }
+[2017-06-21 17:50:10.903] [ERROR] router - 用户不存在
+[2017-06-21 17:50:19.989] [INFO] router - actor: { account: '李云飞', password: '123456' }
+[2017-06-21 17:50:20.010] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:50:20.060] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:50:20.078] [INFO] router - sql:  select *    from test_user tu    where tu.name = '李云飞'       and tu.password = '123456'
+[2017-06-21 17:50:20.080] [INFO] router - result: { rows: [ [ 3, '李云飞', '123456' ] ],
+  resultSet: undefined,
+  outBinds: undefined,
+  rowsAffected: undefined,
+  metaData: [ { name: 'ID' }, { name: 'NAME' }, { name: 'PASSWORD' } ] }
+[2017-06-21 17:50:41.365] [INFO] console - connectpool establish!!
+[2017-06-21 17:50:48.931] [INFO] router - actor: { account: '李云飞', password: '123456' }
+[2017-06-21 17:50:48.967] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:50:49.000] [INFO] router - sql:  select *    from test_user tu    where tu.name = '李云飞'       and tu.password = '123456'
+[2017-06-21 17:50:49.004] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:50:49.008] [INFO] router - result: { rows: [ [ 3, '李云飞', '123456' ] ],
+  resultSet: undefined,
+  outBinds: undefined,
+  rowsAffected: undefined,
+  metaData: [ { name: 'ID' }, { name: 'NAME' }, { name: 'PASSWORD' } ] }
+[2017-06-21 17:51:31.962] [INFO] console - connectpool establish!!
+[2017-06-21 17:51:34.242] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:51:37.637] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 17:51:44.658] [INFO] router - actor: { account: '李云飞', password: '123456' }
+[2017-06-21 17:51:44.678] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:51:44.692] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:51:44.760] [INFO] router - sql:  select *    from test_user tu    where tu.name = '李云飞'       and tu.password = '123456'
+[2017-06-21 17:51:44.765] [INFO] router - result: { rows: [ [ 3, '李云飞', '123456' ] ],
+  resultSet: undefined,
+  outBinds: undefined,
+  rowsAffected: undefined,
+  metaData: [ { name: 'ID' }, { name: 'NAME' }, { name: 'PASSWORD' } ] }
+[2017-06-21 17:52:52.878] [INFO] router - actor: { account: 'Email', password: 'Password' }
+[2017-06-21 17:52:52.904] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:52:52.947] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:52:52.958] [INFO] router - sql:  select *    from test_user tu    where tu.name = 'Email'       and tu.password = 'Password'
+[2017-06-21 17:52:52.965] [INFO] router - result: { rows: [],
+  resultSet: undefined,
+  outBinds: undefined,
+  rowsAffected: undefined,
+  metaData: [ { name: 'ID' }, { name: 'NAME' }, { name: 'PASSWORD' } ] }
+[2017-06-21 17:52:52.967] [ERROR] router - 用户不存在
+[2017-06-21 17:52:59.805] [INFO] router - actor: { account: '李云飞', password: '123456' }
+[2017-06-21 17:52:59.808] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:52:59.856] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:52:59.871] [INFO] router - sql:  select *    from test_user tu    where tu.name = '李云飞'       and tu.password = '123456'
+[2017-06-21 17:52:59.873] [INFO] router - result: { rows: [ [ 3, '李云飞', '123456' ] ],
+  resultSet: undefined,
+  outBinds: undefined,
+  rowsAffected: undefined,
+  metaData: [ { name: 'ID' }, { name: 'NAME' }, { name: 'PASSWORD' } ] }
+[2017-06-21 17:53:24.088] [INFO] console - connectpool establish!!
+[2017-06-21 17:53:26.695] [INFO] router - actor: { account: 'Email', password: 'Password' }
+[2017-06-21 17:53:26.725] [INFO] [APP_ANYUKE] - POST /login
+[2017-06-21 17:53:26.734] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:53:26.743] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:53:27.945] [INFO] router - actor: { account: 'Email', password: 'Password' }
+[2017-06-21 17:53:27.948] [INFO] [APP_ANYUKE] - POST /login
+[2017-06-21 17:53:27.954] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:53:27.989] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:53:29.571] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:53:33.096] [INFO] router - actor: { account: 'Email', password: 'Password' }
+[2017-06-21 17:53:33.109] [INFO] [APP_ANYUKE] - POST /login
+[2017-06-21 17:53:33.111] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:53:33.186] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:53:47.454] [INFO] console - connectpool establish!!
+[2017-06-21 17:54:38.891] [INFO] console - connectpool establish!!
+[2017-06-21 17:54:47.099] [INFO] console - connectpool establish!!
+[2017-06-21 17:54:47.937] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 17:54:51.225] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 17:55:10.089] [INFO] console - connectpool establish!!
+[2017-06-21 17:55:42.135] [INFO] console - connectpool establish!!
+[2017-06-21 17:55:49.576] [INFO] console - connectpool establish!!
+[2017-06-21 17:55:50.445] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 17:55:52.781] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 17:55:53.480] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 17:55:53.921] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 17:55:54.316] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 17:55:54.643] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 17:55:55.101] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 17:55:55.711] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 17:56:04.798] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 17:57:19.338] [INFO] console - connectpool establish!!
+[2017-06-21 17:57:27.389] [INFO] console - connectpool establish!!
+[2017-06-21 17:57:28.251] [INFO] console - Session {
+  cookie: 
+   { path: '/',
+     _expires: Thu Jun 22 2017 17:50:20 GMT+0800 (中国标准时间),
+     originalMaxAge: 86400000,
+     httpOnly: true },
+  userId: 3 }
+[2017-06-21 17:57:28.265] [INFO] console - 3
+[2017-06-21 17:57:28.285] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 17:58:05.992] [INFO] console - Session {
+  cookie: 
+   { path: '/',
+     _expires: Thu Jun 22 2017 17:50:20 GMT+0800 (中国标准时间),
+     originalMaxAge: 86400000,
+     httpOnly: true },
+  userId: 3 }
+[2017-06-21 17:58:05.992] [INFO] console - 3
+[2017-06-21 17:58:05.997] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 17:58:08.268] [INFO] console - Session {
+  cookie: 
+   { path: '/',
+     _expires: Thu Jun 22 2017 17:50:20 GMT+0800 (中国标准时间),
+     originalMaxAge: 86400000,
+     httpOnly: true },
+  userId: 3 }
+[2017-06-21 17:58:08.269] [INFO] console - 3
+[2017-06-21 17:58:08.272] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 17:58:08.829] [INFO] console - Session {
+  cookie: 
+   { path: '/',
+     _expires: Thu Jun 22 2017 17:50:20 GMT+0800 (中国标准时间),
+     originalMaxAge: 86400000,
+     httpOnly: true },
+  userId: 3 }
+[2017-06-21 17:58:08.830] [INFO] console - 3
+[2017-06-21 17:58:08.833] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 17:58:15.443] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 17:58:18.829] [INFO] console - Session {
+  cookie: 
+   { path: '/',
+     _expires: Thu Jun 22 2017 17:50:20 GMT+0800 (中国标准时间),
+     originalMaxAge: 86400000,
+     httpOnly: true },
+  userId: 3 }
+[2017-06-21 17:58:18.830] [INFO] console - 3
+[2017-06-21 17:58:18.838] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 17:58:53.009] [INFO] console - connectpool establish!!
+[2017-06-21 17:59:07.875] [INFO] console - connectpool establish!!
+[2017-06-21 17:59:08.725] [INFO] console - Session {
+  cookie: 
+   { path: '/',
+     _expires: Thu Jun 22 2017 17:50:20 GMT+0800 (中国标准时间),
+     originalMaxAge: 86400000,
+     httpOnly: true },
+  userId: 3 }
+[2017-06-21 17:59:08.739] [INFO] console - 3
+[2017-06-21 17:59:08.764] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 17:59:23.036] [INFO] console - Session {
+  cookie: 
+   { path: '/',
+     _expires: Thu Jun 22 2017 17:50:20 GMT+0800 (中国标准时间),
+     originalMaxAge: 86400000,
+     httpOnly: true },
+  userId: 3 }
+[2017-06-21 17:59:23.037] [INFO] console - 3
+[2017-06-21 17:59:23.042] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 17:59:27.853] [INFO] console - Session {
+  cookie: 
+   { path: '/',
+     _expires: Wed Jun 21 2017 17:59:28 GMT+0800 (中国标准时间),
+     originalMaxAge: 1000,
+     httpOnly: true } }
+[2017-06-21 17:59:27.855] [INFO] console - undefined
+[2017-06-21 17:59:27.864] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 17:59:27.867] [ERROR] console - Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:344:11)
+    at ServerResponse.header (D:\liyunfei\Log\node_modules\_express@4.15.3@express\lib\response.js:730:10)
+    at ServerResponse.send (D:\liyunfei\Log\node_modules\_express@4.15.3@express\lib\response.js:170:12)
+    at done (D:\liyunfei\Log\node_modules\_express@4.15.3@express\lib\response.js:967:10)
+    at tryHandleCache (D:\liyunfei\Log\node_modules\_ejs@2.5.6@ejs\lib\ejs.js:208:10)
+    at View.exports.renderFile [as engine] (D:\liyunfei\Log\node_modules\_ejs@2.5.6@ejs\lib\ejs.js:412:10)
+    at View.render (D:\liyunfei\Log\node_modules\_express@4.15.3@express\lib\view.js:128:8)
+    at tryRender (D:\liyunfei\Log\node_modules\_express@4.15.3@express\lib\application.js:640:10)
+    at EventEmitter.render (D:\liyunfei\Log\node_modules\_express@4.15.3@express\lib\application.js:592:3)
+    at ServerResponse.render (D:\liyunfei\Log\node_modules\_express@4.15.3@express\lib\response.js:971:7)
+[2017-06-21 17:59:27.882] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 17:59:32.904] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 17:59:32.905] [ERROR] console - Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:344:11)
+    at ServerResponse.header (D:\liyunfei\Log\node_modules\_express@4.15.3@express\lib\response.js:730:10)
+    at ServerResponse.contentType (D:\liyunfei\Log\node_modules\_express@4.15.3@express\lib\response.js:558:15)
+    at ServerResponse.send (D:\liyunfei\Log\node_modules\_express@4.15.3@express\lib\response.js:145:14)
+    at done (D:\liyunfei\Log\node_modules\_express@4.15.3@express\lib\response.js:967:10)
+    at tryHandleCache (D:\liyunfei\Log\node_modules\_ejs@2.5.6@ejs\lib\ejs.js:208:10)
+    at View.exports.renderFile [as engine] (D:\liyunfei\Log\node_modules\_ejs@2.5.6@ejs\lib\ejs.js:412:10)
+    at View.render (D:\liyunfei\Log\node_modules\_express@4.15.3@express\lib\view.js:128:8)
+    at tryRender (D:\liyunfei\Log\node_modules\_express@4.15.3@express\lib\application.js:640:10)
+    at EventEmitter.render (D:\liyunfei\Log\node_modules\_express@4.15.3@express\lib\application.js:592:3)
+[2017-06-21 17:59:34.975] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 17:59:36.708] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 17:59:49.021] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 17:59:49.044] [INFO] router - actor: { account: '里的', password: 'Password' }
+[2017-06-21 17:59:49.052] [INFO] [APP_ANYUKE] - POST /login
+[2017-06-21 17:59:49.106] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:00:09.126] [INFO] console - connectpool establish!!
+[2017-06-21 18:01:32.033] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:01:32.084] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:01:32.084] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:01:37.451] [INFO] console - connectpool establish!!
+[2017-06-21 18:01:41.898] [INFO] console - connectpool establish!!
+[2017-06-21 18:01:47.715] [INFO] console - connectpool establish!!
+[2017-06-21 18:01:48.566] [INFO] console - Session {
+  cookie: 
+   { path: '/',
+     _expires: Wed Jun 21 2017 18:02:32 GMT+0800 (中国标准时间),
+     originalMaxAge: 60000,
+     httpOnly: true } }
+[2017-06-21 18:01:48.583] [INFO] console - undefined
+[2017-06-21 18:01:48.595] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 18:01:48.619] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 18:01:55.837] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 18:01:57.220] [INFO] router - actor: { account: 'Email', password: 'Password' }
+[2017-06-21 18:01:57.222] [INFO] [APP_ANYUKE] - POST /login
+[2017-06-21 18:01:57.225] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:01:57.351] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:01:57.375] [INFO] router - actor: { account: 'Email', password: 'Password' }
+[2017-06-21 18:01:57.379] [INFO] [APP_ANYUKE] - POST /login
+[2017-06-21 18:01:57.388] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:02:11.436] [INFO] console - connectpool establish!!
+[2017-06-21 18:02:12.798] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:02:14.600] [INFO] router - actor: { account: 'Email', password: 'Password' }
+[2017-06-21 18:02:14.620] [INFO] [APP_ANYUKE] - POST /login
+[2017-06-21 18:02:14.621] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:02:14.665] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:02:15.391] [INFO] router - actor: { account: 'Email', password: 'Password' }
+[2017-06-21 18:02:15.394] [INFO] [APP_ANYUKE] - POST /login
+[2017-06-21 18:02:15.398] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:02:15.421] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:02:15.957] [INFO] router - actor: { account: 'Email', password: 'Password' }
+[2017-06-21 18:02:15.959] [INFO] [APP_ANYUKE] - POST /login
+[2017-06-21 18:02:16.058] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:02:16.500] [INFO] router - actor: { account: 'Email', password: 'Password' }
+[2017-06-21 18:02:16.503] [INFO] [APP_ANYUKE] - POST /login
+[2017-06-21 18:02:16.504] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:02:17.201] [INFO] router - actor: { account: 'Email', password: 'Password' }
+[2017-06-21 18:02:17.205] [INFO] [APP_ANYUKE] - POST /login
+[2017-06-21 18:02:17.220] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:02:17.239] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:02:17.904] [INFO] router - actor: { account: 'Email', password: 'Password' }
+[2017-06-21 18:02:17.906] [INFO] [APP_ANYUKE] - POST /login
+[2017-06-21 18:02:17.910] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:02:17.968] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:02:50.534] [INFO] console - connectpool establish!!
+[2017-06-21 18:02:59.024] [INFO] console - connectpool establish!!
+[2017-06-21 18:02:59.882] [INFO] console - Session {
+  cookie: 
+   { path: '/',
+     _expires: Wed Jun 21 2017 18:03:59 GMT+0800 (中国标准时间),
+     originalMaxAge: 60000,
+     httpOnly: true } }
+[2017-06-21 18:02:59.896] [INFO] console - undefined
+[2017-06-21 18:02:59.908] [INFO] [APP_ANYUKE] - GET /
+[2017-06-21 18:02:59.929] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 18:03:03.456] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-21 18:03:07.844] [INFO] router - actor: { account: 'Email', password: 'Password' }
+[2017-06-21 18:03:07.850] [INFO] [APP_ANYUKE] - POST /login
+[2017-06-21 18:03:07.854] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:03:07.869] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:03:07.924] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:03:29.139] [INFO] console - connectpool establish!!
+[2017-06-21 18:05:11.453] [INFO] console - connectpool establish!!
+[2017-06-21 18:05:21.272] [INFO] console - connectpool establish!!
+[2017-06-21 18:05:28.254] [INFO] router - actor: { account: 'Email', password: 'Password' }
+[2017-06-21 18:05:28.312] [INFO] [APP_ANYUKE] - POST /login
+[2017-06-21 18:05:28.393] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:05:28.416] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:05:28.427] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:05:28.450] [INFO] router - actor: { account: 'Email', password: 'Password' }
+[2017-06-21 18:05:28.451] [INFO] router - actor: { account: 'Email', password: 'Password' }
+[2017-06-21 18:05:28.463] [INFO] [APP_ANYUKE] - POST /login
+[2017-06-21 18:05:28.464] [INFO] [APP_ANYUKE] - POST /login
+[2017-06-21 18:05:28.465] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:05:28.466] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:05:30.731] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:05:32.173] [INFO] router - actor: { account: 'Email', password: 'Password' }
+[2017-06-21 18:05:32.180] [INFO] [APP_ANYUKE] - POST /login
+[2017-06-21 18:05:32.200] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:05:32.262] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:05:32.288] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:05:33.200] [INFO] router - actor: { account: 'Email', password: 'Password' }
+[2017-06-21 18:05:33.204] [INFO] [APP_ANYUKE] - POST /login
+[2017-06-21 18:05:33.208] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:05:33.412] [INFO] router - actor: { account: 'Email', password: 'Password' }
+[2017-06-21 18:05:33.414] [INFO] [APP_ANYUKE] - POST /login
+[2017-06-21 18:05:33.421] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:05:33.598] [INFO] router - actor: { account: 'Email', password: 'Password' }
+[2017-06-21 18:05:33.602] [INFO] [APP_ANYUKE] - POST /login
+[2017-06-21 18:05:33.622] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:05:33.747] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:05:33.924] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:05:34.085] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:05:34.380] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:05:34.386] [INFO] router - actor: { account: 'Email', password: 'Password' }
+[2017-06-21 18:05:34.389] [INFO] [APP_ANYUKE] - POST /login
+[2017-06-21 18:05:34.533] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:06:01.067] [INFO] console - connectpool establish!!
+[2017-06-21 18:06:02.910] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:06:04.161] [INFO] router - actor: { account: 'Email', password: 'Password' }
+[2017-06-21 18:06:04.191] [INFO] [APP_ANYUKE] - POST /login
+[2017-06-21 18:06:04.200] [ERROR] console - Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:344:11)
+    at ServerResponse.header (D:\liyunfei\Log\node_modules\_express@4.15.3@express\lib\response.js:730:10)
+    at ServerResponse.send (D:\liyunfei\Log\node_modules\_express@4.15.3@express\lib\response.js:170:12)
+    at done (D:\liyunfei\Log\node_modules\_express@4.15.3@express\lib\response.js:967:10)
+    at tryHandleCache (D:\liyunfei\Log\node_modules\_ejs@2.5.6@ejs\lib\ejs.js:208:10)
+    at View.exports.renderFile [as engine] (D:\liyunfei\Log\node_modules\_ejs@2.5.6@ejs\lib\ejs.js:412:10)
+    at View.render (D:\liyunfei\Log\node_modules\_express@4.15.3@express\lib\view.js:128:8)
+    at tryRender (D:\liyunfei\Log\node_modules\_express@4.15.3@express\lib\application.js:640:10)
+    at EventEmitter.render (D:\liyunfei\Log\node_modules\_express@4.15.3@express\lib\application.js:592:3)
+    at ServerResponse.render (D:\liyunfei\Log\node_modules\_express@4.15.3@express\lib\response.js:971:7)
+[2017-06-21 18:06:04.201] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:06:04.224] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:06:04.263] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:06:09.168] [INFO] router - actor: { account: 'Email', password: 'Password' }
+[2017-06-21 18:06:09.174] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:06:09.174] [ERROR] console - Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:344:11)
+    at ServerResponse.header (D:\liyunfei\Log\node_modules\_express@4.15.3@express\lib\response.js:730:10)
+    at ServerResponse.send (D:\liyunfei\Log\node_modules\_express@4.15.3@express\lib\response.js:170:12)
+    at done (D:\liyunfei\Log\node_modules\_express@4.15.3@express\lib\response.js:967:10)
+    at tryHandleCache (D:\liyunfei\Log\node_modules\_ejs@2.5.6@ejs\lib\ejs.js:208:10)
+    at View.exports.renderFile [as engine] (D:\liyunfei\Log\node_modules\_ejs@2.5.6@ejs\lib\ejs.js:412:10)
+    at View.render (D:\liyunfei\Log\node_modules\_express@4.15.3@express\lib\view.js:128:8)
+    at tryRender (D:\liyunfei\Log\node_modules\_express@4.15.3@express\lib\application.js:640:10)
+    at EventEmitter.render (D:\liyunfei\Log\node_modules\_express@4.15.3@express\lib\application.js:592:3)
+    at ServerResponse.render (D:\liyunfei\Log\node_modules\_express@4.15.3@express\lib\response.js:971:7)
+[2017-06-21 18:06:09.253] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:06:09.291] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:06:25.170] [INFO] console - connectpool establish!!
+[2017-06-21 18:06:27.584] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:06:28.710] [INFO] router - actor: { account: 'Email', password: 'Password' }
+[2017-06-21 18:06:28.737] [INFO] [APP_ANYUKE] - POST /login
+[2017-06-21 18:06:28.745] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:06:28.815] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:06:28.841] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:06:50.373] [INFO] console - connectpool establish!!
+[2017-06-21 18:08:40.697] [INFO] console - connectpool establish!!
+[2017-06-21 18:16:56.888] [INFO] console - connectpool establish!!
+[2017-06-21 18:17:00.411] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:17:02.015] [INFO] router - actor: { account: 'Email', password: 'Password' }
+[2017-06-21 18:17:02.033] [INFO] router - 为啥不跳转!!!
+[2017-06-21 18:17:02.036] [INFO] [APP_ANYUKE] - POST /login
+[2017-06-21 18:17:02.041] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:17:02.109] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-21 18:17:02.120] [INFO] [APP_ANYUKE] - GET /login?

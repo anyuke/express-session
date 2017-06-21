@@ -1,0 +1,1048 @@
+[2017-06-20 15:42:09.820] [INFO] router - hello world
+[2017-06-20 15:42:09.839] [INFO] [APP_YDMXCWX] - GET /
+[2017-06-20 15:42:09.871] [INFO] [APP_YDMXCWX] - GET /favicon.ico
+[2017-06-20 15:42:24.248] [INFO] router - hello world
+[2017-06-20 15:42:24.252] [INFO] [APP_YDMXCWX] - GET /
+[2017-06-20 15:49:10.453] [INFO] [APP_YDMXCWX] - GET /
+[2017-06-20 15:49:26.722] [INFO] [APP_YDMXCWX] - GET /home
+[2017-06-20 15:50:54.367] [INFO] [APP_YDMXCWX] - not found
+[2017-06-20 15:50:54.390] [INFO] [APP_YDMXCWX] - GET /home
+[2017-06-20 15:51:21.236] [INFO] [APP_YDMXCWX] - Not Found
+[2017-06-20 15:51:21.260] [INFO] [APP_YDMXCWX] - GET /home
+[2017-06-20 16:44:03.307] [INFO] [APP_YDMXCWX] - GET /
+[2017-06-20 16:44:03.314] [INFO] [APP_YDMXCWX] - Not Found
+[2017-06-20 16:44:03.321] [INFO] [APP_YDMXCWX] - GET /stylesheets/style.css
+[2017-06-20 16:44:03.324] [INFO] [APP_YDMXCWX] - Not Found
+[2017-06-20 16:44:03.326] [INFO] [APP_YDMXCWX] - GET /favicon.ico
+[2017-06-20 16:44:17.570] [INFO] [APP_YDMXCWX] - GET /
+[2017-06-20 16:44:17.590] [INFO] [APP_YDMXCWX] - Not Found
+[2017-06-20 16:44:17.591] [INFO] [APP_YDMXCWX] - GET /stylesheets/style.css
+[2017-06-20 16:44:18.137] [INFO] [APP_YDMXCWX] - Not Found
+[2017-06-20 16:44:18.139] [INFO] [APP_YDMXCWX] - GET /favicon.ico
+[2017-06-20 16:44:25.332] [INFO] [APP_YDMXCWX] - GET /
+[2017-06-20 16:44:25.354] [INFO] [APP_YDMXCWX] - Not Found
+[2017-06-20 16:44:25.356] [INFO] [APP_YDMXCWX] - GET /stylesheets/style.css
+[2017-06-20 16:46:37.927] [INFO] [APP_YDMXCWX] - GET /
+[2017-06-20 16:46:37.941] [INFO] [APP_YDMXCWX] - Not Found
+[2017-06-20 16:46:37.944] [INFO] [APP_YDMXCWX] - GET /stylesheets/style.css
+[2017-06-20 16:49:00.538] [INFO] [APP_YDMXCWX] - GET /
+[2017-06-20 16:49:00.557] [INFO] [APP_YDMXCWX] - Not Found
+[2017-06-20 16:49:00.558] [INFO] [APP_YDMXCWX] - GET /stylesheets/style.css
+[2017-06-20 16:49:51.632] [INFO] [APP_YDMXCWX] - GET /
+[2017-06-20 16:49:51.651] [INFO] [APP_YDMXCWX] - Not Found
+[2017-06-20 16:49:51.653] [INFO] [APP_YDMXCWX] - GET /stylesheets/style.css
+[2017-06-20 16:49:51.792] [INFO] [APP_YDMXCWX] - Not Found
+[2017-06-20 16:49:51.793] [INFO] [APP_YDMXCWX] - GET /favicon.ico
+[2017-06-20 16:52:14.883] [INFO] [APP_YDMXCWX] - GET /
+[2017-06-20 16:52:14.920] [INFO] [APP_YDMXCWX] - Not Found
+[2017-06-20 16:52:14.925] [INFO] [APP_YDMXCWX] - GET /stylesheets/style.css
+[2017-06-20 16:53:34.934] [INFO] [APP_YDMXCWX] - GET /
+[2017-06-20 16:53:34.958] [INFO] [APP_YDMXCWX] - Not Found
+[2017-06-20 16:53:34.960] [INFO] [APP_YDMXCWX] - GET /stylesheets/style.css
+[2017-06-20 16:55:42.961] [INFO] [APP_YDMXCWX] - GET /
+[2017-06-20 16:55:43.094] [INFO] [APP_YDMXCWX] - Not Found
+[2017-06-20 16:55:43.099] [INFO] [APP_YDMXCWX] - GET /stylesheets/style.css
+[2017-06-20 16:56:46.628] [INFO] [APP_YDMXCWX] - GET /
+[2017-06-20 16:56:46.641] [INFO] [APP_YDMXCWX] - Not Found
+[2017-06-20 16:56:46.646] [INFO] [APP_YDMXCWX] - GET /stylesheets/style.css
+[2017-06-20 17:00:32.606] [INFO] [APP_YDMXCWX] - GET /
+[2017-06-20 17:00:32.622] [INFO] [APP_YDMXCWX] - Not Found
+[2017-06-20 17:00:32.628] [INFO] [APP_YDMXCWX] - GET /stylesheets/style.css
+[2017-06-20 17:03:52.605] [INFO] [APP_YDMXCWX] - GET /
+[2017-06-20 17:03:52.616] [INFO] [APP_YDMXCWX] - Not Found
+[2017-06-20 17:03:52.621] [INFO] [APP_YDMXCWX] - GET /stylesheets/style.css
+[2017-06-20 17:14:29.906] [INFO] [APP_YDMXCWX] - GET /
+[2017-06-20 17:14:29.918] [INFO] [APP_YDMXCWX] - Not Found
+[2017-06-20 17:14:29.923] [INFO] [APP_YDMXCWX] - GET /stylesheets/style.css
+[2017-06-20 17:17:32.731] [INFO] [APP_ANYUKE] - Not Found
+[2017-06-20 17:17:32.749] [INFO] [APP_ANYUKE] - GET /stylesheets/style.css
+[2017-06-20 17:17:39.691] [INFO] [APP_ANYUKE] - GET /
+[2017-06-20 17:17:39.740] [INFO] [APP_ANYUKE] - Not Found
+[2017-06-20 17:17:39.742] [INFO] [APP_ANYUKE] - GET /stylesheets/style.css
+[2017-06-20 17:19:12.589] [INFO] [APP_ANYUKE] - GET /
+[2017-06-20 17:37:40.477] [INFO] [APP_ANYUKE] - GET /
+[2017-06-20 17:50:30.231] [INFO] router - req.session: undefined
+[2017-06-20 17:50:30.258] [INFO] [APP_ANYUKE] - GET /
+[2017-06-20 17:51:29.147] [INFO] router - req.session: undefined
+[2017-06-20 17:51:29.165] [INFO] [APP_ANYUKE] - GET /
+[2017-06-20 17:52:06.245] [INFO] console - store:
+ RedisStore {
+  prefix: 'sess:',
+  scanCount: 100,
+  serializer: {},
+  client: 
+   RedisClient {
+     domain: null,
+     _events: { newListener: [Function], connect: [Object], error: [Function] },
+     _eventsCount: 3,
+     _maxListeners: undefined,
+     address: '127.0.0.1:6379',
+     connection_options: { port: 6379, host: '127.0.0.1', family: 4 },
+     connection_id: 0,
+     connected: false,
+     ready: false,
+     should_buffer: true,
+     max_attempts: 0,
+     command_queue: { [String: ''] _capacity: 16, _length: 0, _front: 0 },
+     offline_queue: { [String: '[object Object]'] _capacity: 16, _length: 1, _front: 0 },
+     pipeline_queue: { [String: ''] _capacity: 16, _length: 0, _front: 0 },
+     connect_timeout: 3600000,
+     enable_offline_queue: true,
+     retry_max_delay: null,
+     retry_timer: null,
+     retry_totaltime: 0,
+     retry_delay: 200,
+     retry_backoff: 1.7,
+     attempts: 1,
+     pub_sub_mode: 0,
+     subscription_set: {},
+     monitoring: false,
+     message_buffers: false,
+     closing: false,
+     server_info: {},
+     auth_pass: undefined,
+     selected_db: 1,
+     old_state: null,
+     fire_strings: true,
+     pipeline: false,
+     sub_commands_left: 0,
+     times_connected: 0,
+     buffers: false,
+     options: 
+      { host: '127.0.0.1',
+        port: 6379,
+        db: 1,
+        pass: '',
+        socket_nodelay: true,
+        socket_keepalive: true,
+        return_buffers: false,
+        detect_buffers: false },
+     reply: 'ON',
+     reply_parser: 
+      JavascriptRedisParser {
+        optionReturnBuffers: false,
+        optionStringNumbers: false,
+        returnError: [Function],
+        returnFatalError: [Function],
+        returnReply: [Function],
+        name: 'javascript',
+        offset: 0,
+        buffer: null,
+        bigStrSize: 0,
+        bigOffset: 0,
+        totalChunkSize: 0,
+        bufferCache: [],
+        arrayCache: [],
+        arrayPos: [] },
+     stream: 
+      Socket {
+        _connecting: true,
+        _hadError: false,
+        _handle: [Object],
+        _parent: null,
+        _host: null,
+        _readableState: [Object],
+        readable: false,
+        domain: null,
+        _events: [Object],
+        _eventsCount: 9,
+        _maxListeners: undefined,
+        _writableState: [Object],
+        writable: true,
+        allowHalfOpen: false,
+        destroyed: false,
+        _bytesDispatched: 0,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: null,
+        _server: null } },
+  ttl: undefined,
+  disableTTL: undefined }
+[2017-06-20 17:56:15.021] [INFO] console - store:
+ RedisStore {
+  prefix: 'sess:',
+  scanCount: 100,
+  serializer: {},
+  client: 
+   RedisClient {
+     domain: null,
+     _events: { newListener: [Function], connect: [Object], error: [Function] },
+     _eventsCount: 3,
+     _maxListeners: undefined,
+     address: '127.0.0.1:6379',
+     connection_options: { port: 6379, host: '127.0.0.1', family: 4 },
+     connection_id: 0,
+     connected: false,
+     ready: false,
+     should_buffer: true,
+     max_attempts: 0,
+     command_queue: { [String: ''] _capacity: 16, _length: 0, _front: 0 },
+     offline_queue: { [String: '[object Object]'] _capacity: 16, _length: 1, _front: 0 },
+     pipeline_queue: { [String: ''] _capacity: 16, _length: 0, _front: 0 },
+     connect_timeout: 3600000,
+     enable_offline_queue: true,
+     retry_max_delay: null,
+     retry_timer: null,
+     retry_totaltime: 0,
+     retry_delay: 200,
+     retry_backoff: 1.7,
+     attempts: 1,
+     pub_sub_mode: 0,
+     subscription_set: {},
+     monitoring: false,
+     message_buffers: false,
+     closing: false,
+     server_info: {},
+     auth_pass: undefined,
+     selected_db: 1,
+     old_state: null,
+     fire_strings: true,
+     pipeline: false,
+     sub_commands_left: 0,
+     times_connected: 0,
+     buffers: false,
+     options: 
+      { host: '127.0.0.1',
+        port: 6379,
+        db: 1,
+        pass: '',
+        socket_nodelay: true,
+        socket_keepalive: true,
+        return_buffers: false,
+        detect_buffers: false },
+     reply: 'ON',
+     reply_parser: 
+      JavascriptRedisParser {
+        optionReturnBuffers: false,
+        optionStringNumbers: false,
+        returnError: [Function],
+        returnFatalError: [Function],
+        returnReply: [Function],
+        name: 'javascript',
+        offset: 0,
+        buffer: null,
+        bigStrSize: 0,
+        bigOffset: 0,
+        totalChunkSize: 0,
+        bufferCache: [],
+        arrayCache: [],
+        arrayPos: [] },
+     stream: 
+      Socket {
+        _connecting: true,
+        _hadError: false,
+        _handle: [Object],
+        _parent: null,
+        _host: null,
+        _readableState: [Object],
+        readable: false,
+        domain: null,
+        _events: [Object],
+        _eventsCount: 9,
+        _maxListeners: undefined,
+        _writableState: [Object],
+        writable: true,
+        allowHalfOpen: false,
+        destroyed: false,
+        _bytesDispatched: 0,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: null,
+        _server: null } },
+  ttl: undefined,
+  disableTTL: undefined }
+[2017-06-20 17:56:24.220] [INFO] console - store:
+ RedisStore {
+  prefix: 'sess:',
+  scanCount: 100,
+  serializer: {},
+  client: 
+   RedisClient {
+     domain: null,
+     _events: { newListener: [Function], connect: [Object], error: [Function] },
+     _eventsCount: 3,
+     _maxListeners: undefined,
+     address: '127.0.0.1:6379',
+     connection_options: { port: 6379, host: '127.0.0.1', family: 4 },
+     connection_id: 0,
+     connected: false,
+     ready: false,
+     should_buffer: true,
+     max_attempts: 0,
+     command_queue: { [String: ''] _capacity: 16, _length: 0, _front: 0 },
+     offline_queue: { [String: '[object Object]'] _capacity: 16, _length: 1, _front: 0 },
+     pipeline_queue: { [String: ''] _capacity: 16, _length: 0, _front: 0 },
+     connect_timeout: 3600000,
+     enable_offline_queue: true,
+     retry_max_delay: null,
+     retry_timer: null,
+     retry_totaltime: 0,
+     retry_delay: 200,
+     retry_backoff: 1.7,
+     attempts: 1,
+     pub_sub_mode: 0,
+     subscription_set: {},
+     monitoring: false,
+     message_buffers: false,
+     closing: false,
+     server_info: {},
+     auth_pass: undefined,
+     selected_db: 1,
+     old_state: null,
+     fire_strings: true,
+     pipeline: false,
+     sub_commands_left: 0,
+     times_connected: 0,
+     buffers: false,
+     options: 
+      { host: '127.0.0.1',
+        port: 6379,
+        db: 1,
+        pass: '',
+        socket_nodelay: true,
+        socket_keepalive: true,
+        return_buffers: false,
+        detect_buffers: false },
+     reply: 'ON',
+     reply_parser: 
+      JavascriptRedisParser {
+        optionReturnBuffers: false,
+        optionStringNumbers: false,
+        returnError: [Function],
+        returnFatalError: [Function],
+        returnReply: [Function],
+        name: 'javascript',
+        offset: 0,
+        buffer: null,
+        bigStrSize: 0,
+        bigOffset: 0,
+        totalChunkSize: 0,
+        bufferCache: [],
+        arrayCache: [],
+        arrayPos: [] },
+     stream: 
+      Socket {
+        _connecting: true,
+        _hadError: false,
+        _handle: [Object],
+        _parent: null,
+        _host: null,
+        _readableState: [Object],
+        readable: false,
+        domain: null,
+        _events: [Object],
+        _eventsCount: 9,
+        _maxListeners: undefined,
+        _writableState: [Object],
+        writable: true,
+        allowHalfOpen: false,
+        destroyed: false,
+        _bytesDispatched: 0,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: null,
+        _server: null } },
+  ttl: undefined,
+  disableTTL: undefined }
+[2017-06-20 17:56:25.069] [INFO] router - req.session: undefined
+[2017-06-20 17:56:25.083] [INFO] [APP_ANYUKE] - GET /
+[2017-06-20 17:56:34.133] [INFO] [APP_ANYUKE] - GET /api/test/getsession
+[2017-06-20 17:57:23.022] [INFO] router - req.session: undefined
+[2017-06-20 17:57:23.025] [INFO] [APP_ANYUKE] - GET /
+[2017-06-20 17:57:37.583] [INFO] [APP_ANYUKE] - GET /api/test/getsession
+[2017-06-20 17:58:27.741] [INFO] console - store:
+ RedisStore {
+  prefix: 'sess:',
+  scanCount: 100,
+  serializer: {},
+  client: 
+   RedisClient {
+     domain: null,
+     _events: { newListener: [Function], connect: [Object], error: [Function] },
+     _eventsCount: 3,
+     _maxListeners: undefined,
+     address: '127.0.0.1:6379',
+     connection_options: { port: 6379, host: '127.0.0.1', family: 4 },
+     connection_id: 0,
+     connected: false,
+     ready: false,
+     should_buffer: true,
+     max_attempts: 0,
+     command_queue: { [String: ''] _capacity: 16, _length: 0, _front: 0 },
+     offline_queue: { [String: '[object Object]'] _capacity: 16, _length: 1, _front: 0 },
+     pipeline_queue: { [String: ''] _capacity: 16, _length: 0, _front: 0 },
+     connect_timeout: 3600000,
+     enable_offline_queue: true,
+     retry_max_delay: null,
+     retry_timer: null,
+     retry_totaltime: 0,
+     retry_delay: 200,
+     retry_backoff: 1.7,
+     attempts: 1,
+     pub_sub_mode: 0,
+     subscription_set: {},
+     monitoring: false,
+     message_buffers: false,
+     closing: false,
+     server_info: {},
+     auth_pass: undefined,
+     selected_db: 1,
+     old_state: null,
+     fire_strings: true,
+     pipeline: false,
+     sub_commands_left: 0,
+     times_connected: 0,
+     buffers: false,
+     options: 
+      { host: '127.0.0.1',
+        port: 6379,
+        db: 1,
+        pass: '',
+        socket_nodelay: true,
+        socket_keepalive: true,
+        return_buffers: false,
+        detect_buffers: false },
+     reply: 'ON',
+     reply_parser: 
+      JavascriptRedisParser {
+        optionReturnBuffers: false,
+        optionStringNumbers: false,
+        returnError: [Function],
+        returnFatalError: [Function],
+        returnReply: [Function],
+        name: 'javascript',
+        offset: 0,
+        buffer: null,
+        bigStrSize: 0,
+        bigOffset: 0,
+        totalChunkSize: 0,
+        bufferCache: [],
+        arrayCache: [],
+        arrayPos: [] },
+     stream: 
+      Socket {
+        _connecting: true,
+        _hadError: false,
+        _handle: [Object],
+        _parent: null,
+        _host: null,
+        _readableState: [Object],
+        readable: false,
+        domain: null,
+        _events: [Object],
+        _eventsCount: 9,
+        _maxListeners: undefined,
+        _writableState: [Object],
+        writable: true,
+        allowHalfOpen: false,
+        destroyed: false,
+        _bytesDispatched: 0,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: null,
+        _server: null } },
+  ttl: undefined,
+  disableTTL: undefined }
+[2017-06-20 17:58:31.586] [INFO] console - store:
+ RedisStore {
+  prefix: 'sess:',
+  scanCount: 100,
+  serializer: {},
+  client: 
+   RedisClient {
+     domain: null,
+     _events: { newListener: [Function], connect: [Object], error: [Function] },
+     _eventsCount: 3,
+     _maxListeners: undefined,
+     address: '127.0.0.1:6379',
+     connection_options: { port: 6379, host: '127.0.0.1', family: 4 },
+     connection_id: 0,
+     connected: false,
+     ready: false,
+     should_buffer: true,
+     max_attempts: 0,
+     command_queue: { [String: ''] _capacity: 16, _length: 0, _front: 0 },
+     offline_queue: { [String: '[object Object]'] _capacity: 16, _length: 1, _front: 0 },
+     pipeline_queue: { [String: ''] _capacity: 16, _length: 0, _front: 0 },
+     connect_timeout: 3600000,
+     enable_offline_queue: true,
+     retry_max_delay: null,
+     retry_timer: null,
+     retry_totaltime: 0,
+     retry_delay: 200,
+     retry_backoff: 1.7,
+     attempts: 1,
+     pub_sub_mode: 0,
+     subscription_set: {},
+     monitoring: false,
+     message_buffers: false,
+     closing: false,
+     server_info: {},
+     auth_pass: undefined,
+     selected_db: 1,
+     old_state: null,
+     fire_strings: true,
+     pipeline: false,
+     sub_commands_left: 0,
+     times_connected: 0,
+     buffers: false,
+     options: 
+      { host: '127.0.0.1',
+        port: 6379,
+        db: 1,
+        pass: '',
+        socket_nodelay: true,
+        socket_keepalive: true,
+        return_buffers: false,
+        detect_buffers: false },
+     reply: 'ON',
+     reply_parser: 
+      JavascriptRedisParser {
+        optionReturnBuffers: false,
+        optionStringNumbers: false,
+        returnError: [Function],
+        returnFatalError: [Function],
+        returnReply: [Function],
+        name: 'javascript',
+        offset: 0,
+        buffer: null,
+        bigStrSize: 0,
+        bigOffset: 0,
+        totalChunkSize: 0,
+        bufferCache: [],
+        arrayCache: [],
+        arrayPos: [] },
+     stream: 
+      Socket {
+        _connecting: true,
+        _hadError: false,
+        _handle: [Object],
+        _parent: null,
+        _host: null,
+        _readableState: [Object],
+        readable: false,
+        domain: null,
+        _events: [Object],
+        _eventsCount: 9,
+        _maxListeners: undefined,
+        _writableState: [Object],
+        writable: true,
+        allowHalfOpen: false,
+        destroyed: false,
+        _bytesDispatched: 0,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: null,
+        _server: null } },
+  ttl: undefined,
+  disableTTL: undefined }
+[2017-06-20 17:58:39.112] [INFO] console - store:
+ RedisStore {
+  prefix: 'sess:',
+  scanCount: 100,
+  serializer: {},
+  client: 
+   RedisClient {
+     domain: null,
+     _events: { newListener: [Function], connect: [Object], error: [Function] },
+     _eventsCount: 3,
+     _maxListeners: undefined,
+     address: '127.0.0.1:6379',
+     connection_options: { port: 6379, host: '127.0.0.1', family: 4 },
+     connection_id: 0,
+     connected: false,
+     ready: false,
+     should_buffer: true,
+     max_attempts: 0,
+     command_queue: { [String: ''] _capacity: 16, _length: 0, _front: 0 },
+     offline_queue: { [String: '[object Object]'] _capacity: 16, _length: 1, _front: 0 },
+     pipeline_queue: { [String: ''] _capacity: 16, _length: 0, _front: 0 },
+     connect_timeout: 3600000,
+     enable_offline_queue: true,
+     retry_max_delay: null,
+     retry_timer: null,
+     retry_totaltime: 0,
+     retry_delay: 200,
+     retry_backoff: 1.7,
+     attempts: 1,
+     pub_sub_mode: 0,
+     subscription_set: {},
+     monitoring: false,
+     message_buffers: false,
+     closing: false,
+     server_info: {},
+     auth_pass: undefined,
+     selected_db: 1,
+     old_state: null,
+     fire_strings: true,
+     pipeline: false,
+     sub_commands_left: 0,
+     times_connected: 0,
+     buffers: false,
+     options: 
+      { host: '127.0.0.1',
+        port: 6379,
+        db: 1,
+        pass: '',
+        socket_nodelay: true,
+        socket_keepalive: true,
+        return_buffers: false,
+        detect_buffers: false },
+     reply: 'ON',
+     reply_parser: 
+      JavascriptRedisParser {
+        optionReturnBuffers: false,
+        optionStringNumbers: false,
+        returnError: [Function],
+        returnFatalError: [Function],
+        returnReply: [Function],
+        name: 'javascript',
+        offset: 0,
+        buffer: null,
+        bigStrSize: 0,
+        bigOffset: 0,
+        totalChunkSize: 0,
+        bufferCache: [],
+        arrayCache: [],
+        arrayPos: [] },
+     stream: 
+      Socket {
+        _connecting: true,
+        _hadError: false,
+        _handle: [Object],
+        _parent: null,
+        _host: null,
+        _readableState: [Object],
+        readable: false,
+        domain: null,
+        _events: [Object],
+        _eventsCount: 9,
+        _maxListeners: undefined,
+        _writableState: [Object],
+        writable: true,
+        allowHalfOpen: false,
+        destroyed: false,
+        _bytesDispatched: 0,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: null,
+        _server: null } },
+  ttl: undefined,
+  disableTTL: undefined }
+[2017-06-20 17:58:39.967] [INFO] [APP_ANYUKE] - GET /
+[2017-06-20 17:59:32.763] [INFO] console - store:
+ RedisStore {
+  prefix: 'sess:',
+  scanCount: 100,
+  serializer: {},
+  client: 
+   RedisClient {
+     domain: null,
+     _events: { newListener: [Function], connect: [Object], error: [Function] },
+     _eventsCount: 3,
+     _maxListeners: undefined,
+     address: '127.0.0.1:6379',
+     connection_options: { port: 6379, host: '127.0.0.1', family: 4 },
+     connection_id: 0,
+     connected: false,
+     ready: false,
+     should_buffer: true,
+     max_attempts: 0,
+     command_queue: { [String: ''] _capacity: 16, _length: 0, _front: 0 },
+     offline_queue: { [String: '[object Object]'] _capacity: 16, _length: 1, _front: 0 },
+     pipeline_queue: { [String: ''] _capacity: 16, _length: 0, _front: 0 },
+     connect_timeout: 3600000,
+     enable_offline_queue: true,
+     retry_max_delay: null,
+     retry_timer: null,
+     retry_totaltime: 0,
+     retry_delay: 200,
+     retry_backoff: 1.7,
+     attempts: 1,
+     pub_sub_mode: 0,
+     subscription_set: {},
+     monitoring: false,
+     message_buffers: false,
+     closing: false,
+     server_info: {},
+     auth_pass: undefined,
+     selected_db: 1,
+     old_state: null,
+     fire_strings: true,
+     pipeline: false,
+     sub_commands_left: 0,
+     times_connected: 0,
+     buffers: false,
+     options: 
+      { host: '127.0.0.1',
+        port: 6379,
+        db: 1,
+        pass: '',
+        socket_nodelay: true,
+        socket_keepalive: true,
+        return_buffers: false,
+        detect_buffers: false },
+     reply: 'ON',
+     reply_parser: 
+      JavascriptRedisParser {
+        optionReturnBuffers: false,
+        optionStringNumbers: false,
+        returnError: [Function],
+        returnFatalError: [Function],
+        returnReply: [Function],
+        name: 'javascript',
+        offset: 0,
+        buffer: null,
+        bigStrSize: 0,
+        bigOffset: 0,
+        totalChunkSize: 0,
+        bufferCache: [],
+        arrayCache: [],
+        arrayPos: [] },
+     stream: 
+      Socket {
+        _connecting: true,
+        _hadError: false,
+        _handle: [Object],
+        _parent: null,
+        _host: null,
+        _readableState: [Object],
+        readable: false,
+        domain: null,
+        _events: [Object],
+        _eventsCount: 9,
+        _maxListeners: undefined,
+        _writableState: [Object],
+        writable: true,
+        allowHalfOpen: false,
+        destroyed: false,
+        _bytesDispatched: 0,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: null,
+        _server: null } },
+  ttl: undefined,
+  disableTTL: undefined }
+[2017-06-20 17:59:36.549] [INFO] [APP_ANYUKE] - GET /
+[2017-06-20 18:02:48.357] [INFO] console - store:
+ RedisStore {
+  prefix: 'sess:',
+  scanCount: 100,
+  serializer: {},
+  client: 
+   RedisClient {
+     domain: null,
+     _events: { newListener: [Function], connect: [Object], error: [Function] },
+     _eventsCount: 3,
+     _maxListeners: undefined,
+     address: '127.0.0.1:6379',
+     connection_options: { port: 6379, host: '127.0.0.1', family: 4 },
+     connection_id: 0,
+     connected: false,
+     ready: false,
+     should_buffer: true,
+     max_attempts: 0,
+     command_queue: { [String: ''] _capacity: 16, _length: 0, _front: 0 },
+     offline_queue: { [String: '[object Object]'] _capacity: 16, _length: 1, _front: 0 },
+     pipeline_queue: { [String: ''] _capacity: 16, _length: 0, _front: 0 },
+     connect_timeout: 3600000,
+     enable_offline_queue: true,
+     retry_max_delay: null,
+     retry_timer: null,
+     retry_totaltime: 0,
+     retry_delay: 200,
+     retry_backoff: 1.7,
+     attempts: 1,
+     pub_sub_mode: 0,
+     subscription_set: {},
+     monitoring: false,
+     message_buffers: false,
+     closing: false,
+     server_info: {},
+     auth_pass: undefined,
+     selected_db: 1,
+     old_state: null,
+     fire_strings: true,
+     pipeline: false,
+     sub_commands_left: 0,
+     times_connected: 0,
+     buffers: false,
+     options: 
+      { host: '127.0.0.1',
+        port: 6379,
+        db: 1,
+        pass: '',
+        socket_nodelay: true,
+        socket_keepalive: true,
+        return_buffers: false,
+        detect_buffers: false },
+     reply: 'ON',
+     reply_parser: 
+      JavascriptRedisParser {
+        optionReturnBuffers: false,
+        optionStringNumbers: false,
+        returnError: [Function],
+        returnFatalError: [Function],
+        returnReply: [Function],
+        name: 'javascript',
+        offset: 0,
+        buffer: null,
+        bigStrSize: 0,
+        bigOffset: 0,
+        totalChunkSize: 0,
+        bufferCache: [],
+        arrayCache: [],
+        arrayPos: [] },
+     stream: 
+      Socket {
+        _connecting: true,
+        _hadError: false,
+        _handle: [Object],
+        _parent: null,
+        _host: null,
+        _readableState: [Object],
+        readable: false,
+        domain: null,
+        _events: [Object],
+        _eventsCount: 9,
+        _maxListeners: undefined,
+        _writableState: [Object],
+        writable: true,
+        allowHalfOpen: false,
+        destroyed: false,
+        _bytesDispatched: 0,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: null,
+        _server: null } },
+  ttl: undefined,
+  disableTTL: undefined }
+[2017-06-20 18:02:53.589] [INFO] [APP_ANYUKE] - GET /
+[2017-06-20 18:03:02.383] [INFO] console - store:
+ RedisStore {
+  prefix: 'sess:',
+  scanCount: 100,
+  serializer: {},
+  client: 
+   RedisClient {
+     domain: null,
+     _events: { newListener: [Function], connect: [Object], error: [Function] },
+     _eventsCount: 3,
+     _maxListeners: undefined,
+     address: '127.0.0.1:6379',
+     connection_options: { port: 6379, host: '127.0.0.1', family: 4 },
+     connection_id: 0,
+     connected: false,
+     ready: false,
+     should_buffer: true,
+     max_attempts: 0,
+     command_queue: { [String: ''] _capacity: 16, _length: 0, _front: 0 },
+     offline_queue: { [String: '[object Object]'] _capacity: 16, _length: 1, _front: 0 },
+     pipeline_queue: { [String: ''] _capacity: 16, _length: 0, _front: 0 },
+     connect_timeout: 3600000,
+     enable_offline_queue: true,
+     retry_max_delay: null,
+     retry_timer: null,
+     retry_totaltime: 0,
+     retry_delay: 200,
+     retry_backoff: 1.7,
+     attempts: 1,
+     pub_sub_mode: 0,
+     subscription_set: {},
+     monitoring: false,
+     message_buffers: false,
+     closing: false,
+     server_info: {},
+     auth_pass: undefined,
+     selected_db: 1,
+     old_state: null,
+     fire_strings: true,
+     pipeline: false,
+     sub_commands_left: 0,
+     times_connected: 0,
+     buffers: false,
+     options: 
+      { host: '127.0.0.1',
+        port: 6379,
+        db: 1,
+        pass: '',
+        socket_nodelay: true,
+        socket_keepalive: true,
+        return_buffers: false,
+        detect_buffers: false },
+     reply: 'ON',
+     reply_parser: 
+      JavascriptRedisParser {
+        optionReturnBuffers: false,
+        optionStringNumbers: false,
+        returnError: [Function],
+        returnFatalError: [Function],
+        returnReply: [Function],
+        name: 'javascript',
+        offset: 0,
+        buffer: null,
+        bigStrSize: 0,
+        bigOffset: 0,
+        totalChunkSize: 0,
+        bufferCache: [],
+        arrayCache: [],
+        arrayPos: [] },
+     stream: 
+      Socket {
+        _connecting: true,
+        _hadError: false,
+        _handle: [Object],
+        _parent: null,
+        _host: null,
+        _readableState: [Object],
+        readable: false,
+        domain: null,
+        _events: [Object],
+        _eventsCount: 9,
+        _maxListeners: undefined,
+        _writableState: [Object],
+        writable: true,
+        allowHalfOpen: false,
+        destroyed: false,
+        _bytesDispatched: 0,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: null,
+        _server: null } },
+  ttl: undefined,
+  disableTTL: undefined }
+[2017-06-20 18:03:54.245] [INFO] [APP_ANYUKE] - GET /
+[2017-06-20 18:04:08.781] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-20 18:06:56.297] [INFO] [APP_ANYUKE] - GET /
+[2017-06-20 18:07:25.136] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-20 18:15:45.204] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-20 18:16:22.333] [INFO] console - test values:  undefined
+[2017-06-20 18:16:22.350] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-20 18:16:43.341] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-20 18:17:07.903] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-20 18:18:29.871] [INFO] [APP_ANYUKE] - GET /
+[2017-06-20 18:18:33.517] [INFO] [APP_ANYUKE] - GET /api/getsession
+[2017-06-20 18:20:35.942] [INFO] [APP_ANYUKE] - GET /
+[2017-06-20 18:25:16.652] [INFO] [APP_ANYUKE] - GET /
+[2017-06-20 18:25:44.953] [INFO] [APP_ANYUKE] - GET /
+[2017-06-20 19:27:27.661] [INFO] [APP_ANYUKE] - GET /
+[2017-06-20 19:27:34.457] [INFO] [APP_ANYUKE] - GET /
+[2017-06-20 19:27:46.923] [INFO] [APP_ANYUKE] - GET /?
+[2017-06-20 19:49:15.054] [INFO] [APP_ANYUKE] - GET /
+[2017-06-20 19:50:02.842] [INFO] [APP_ANYUKE] - GET /
+[2017-06-20 19:50:02.849] [INFO] [APP_ANYUKE] - Not Found
+[2017-06-20 19:50:02.860] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-20 19:56:46.920] [INFO] [APP_ANYUKE] - GET /?
+[2017-06-20 19:56:46.934] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-20 19:56:46.959] [INFO] [APP_ANYUKE] - Not Found
+[2017-06-20 19:56:46.977] [INFO] [APP_ANYUKE] - GET /favicon.ico
+[2017-06-20 19:56:56.925] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-20 19:57:20.644] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-20 19:57:21.026] [INFO] [APP_ANYUKE] - Not Found
+[2017-06-20 19:57:21.031] [INFO] [APP_ANYUKE] - GET /favicon.ico
+[2017-06-20 19:57:25.629] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-20 20:03:45.446] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-20 20:04:51.696] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-20 20:05:18.175] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-20 20:05:54.279] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-20 20:06:15.194] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-20 20:07:41.666] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-20 20:23:51.652] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-20 20:23:58.218] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-20 20:24:32.806] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-20 20:24:45.980] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-20 20:24:47.332] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-20 20:24:48.487] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-20 20:24:49.036] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-20 20:24:49.317] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-20 20:24:49.528] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-20 20:24:49.735] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-20 20:24:49.928] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-20 20:24:50.081] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-20 20:24:50.260] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-20 20:24:50.455] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-20 20:24:50.652] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-20 20:24:51.378] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-20 20:25:06.165] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-20 20:25:16.447] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-20 20:26:00.409] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-20 20:26:10.761] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-20 20:33:50.108] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-20 20:33:58.516] [INFO] router - req.body.account: 123
+[2017-06-20 20:33:58.516] [INFO] router - req.body.password: 456
+[2017-06-20 20:33:58.521] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-20 20:37:33.950] [INFO] [APP_ANYUKE] - GET /
+[2017-06-20 20:37:33.968] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-20 20:38:46.586] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-20 20:38:53.259] [INFO] router - req.body.account: 123
+[2017-06-20 20:38:53.260] [INFO] router - req.body.password: 456
+[2017-06-20 20:38:53.278] [INFO] [APP_ANYUKE] - POST /login
+[2017-06-20 20:38:53.281] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-20 20:40:52.867] [INFO] [APP_ANYUKE] - GET /
+[2017-06-20 20:40:52.898] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-20 20:40:58.175] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-20 20:41:08.328] [INFO] router - req.body.account: 123
+[2017-06-20 20:41:08.328] [INFO] router - req.body.password: 456
+[2017-06-20 20:41:08.344] [INFO] [APP_ANYUKE] - POST /login
+[2017-06-20 20:41:08.346] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-20 20:43:05.788] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-20 20:43:11.179] [INFO] router - req.body.account: 12134
+[2017-06-20 20:43:11.180] [INFO] router - req.body.password: Password
+[2017-06-20 20:43:11.200] [INFO] [APP_ANYUKE] - POST /login
+[2017-06-20 20:43:11.205] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-20 20:53:20.291] [INFO] [APP_ANYUKE] - GET /
+[2017-06-20 20:53:20.310] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-20 20:53:24.644] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-20 20:53:31.195] [INFO] router - req.body.account: 123
+[2017-06-20 20:53:31.195] [INFO] router - req.body.password: 456
+[2017-06-20 20:53:31.214] [INFO] [APP_ANYUKE] - POST /login
+[2017-06-20 20:53:31.214] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-20 20:56:27.845] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-20 20:56:31.974] [INFO] router - req.body.account: Email
+[2017-06-20 20:56:31.974] [INFO] router - req.body.password: Password
+[2017-06-20 20:56:31.992] [INFO] [APP_ANYUKE] - POST /login
+[2017-06-20 20:56:31.993] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-20 20:56:52.733] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-20 20:57:56.876] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-20 20:57:57.959] [INFO] router - req.body.account: Email
+[2017-06-20 20:57:57.960] [INFO] router - req.body.password: Password
+[2017-06-20 20:57:58.004] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-20 20:57:59.351] [ERROR] console - ORA-12541: TNS:no listener
+
+[2017-06-20 20:58:19.823] [INFO] [APP_ANYUKE] - GET /
+[2017-06-20 20:58:19.852] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-20 20:58:24.625] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-20 20:58:25.978] [INFO] router - req.body.account: Email
+[2017-06-20 20:58:25.978] [INFO] router - req.body.password: Password
+[2017-06-20 20:58:26.025] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-20 20:58:27.310] [ERROR] console - ORA-12541: TNS:no listener
+
+[2017-06-20 20:59:50.246] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-20 20:59:51.500] [INFO] router - req.body.account: Email
+[2017-06-20 20:59:51.501] [INFO] router - req.body.password: Password
+[2017-06-20 20:59:51.527] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-20 21:00:12.765] [ERROR] console - ORA-12170: TNS:Connect timeout occurred
+
+[2017-06-20 21:00:25.337] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-20 21:00:27.453] [INFO] [APP_ANYUKE] - GET /
+[2017-06-20 21:00:27.465] [INFO] [APP_ANYUKE] - GET /login
+[2017-06-20 21:00:28.770] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-20 21:00:28.813] [INFO] router - req.body.account: Email
+[2017-06-20 21:00:28.813] [INFO] router - req.body.password: Password
+[2017-06-20 21:00:50.045] [ERROR] console - ORA-12170: TNS:Connect timeout occurred
+
+[2017-06-20 21:04:41.149] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-20 21:04:42.462] [INFO] router - req.body.account: Email
+[2017-06-20 21:04:42.462] [INFO] router - req.body.password: Password
+[2017-06-20 21:04:42.488] [INFO] [APP_ANYUKE] - GET /login?
+[2017-06-20 21:05:03.677] [ERROR] console - ORA-12170: TNS:Connect timeout occurred
+
